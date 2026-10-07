@@ -79,6 +79,8 @@ Requisito: juego instalado, **versión 1.02 UK**.
    Windows pedirá permiso de administrador.
 3. Juega. Para volver al inglés, restaura tu respaldo.
 
+![Menú principal en español con el parche aplicado](images/game-menu.png)
+
 Notas: las voces quedan en inglés (son audio, no texto) y las letras `ñ ¡ ¿`
 se muestran como `n ! ?` (las fuentes del juego no traen esos glifos).
 

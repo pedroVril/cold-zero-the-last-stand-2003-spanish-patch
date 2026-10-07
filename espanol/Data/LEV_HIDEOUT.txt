@@ -1,0 +1,49 @@
+[skill_use]
+Podría ver si soy lo bastante hábil con la técnica...
+[tech1]
+Vaya, eso no ha salido muy bien.
+[tech2]
+¡Hurra!
+[tech3]
+Supongo que soy demasiado torpe para eso.
+[bramka1]
+Necesito una llave.
+[drzwi]
+Cerrado.
+
+[zakladnik1]
+¡Por fin! ¡Empezaba a pensar que era el fin!
+[LH_JOHN_1]
+¿Dónde están los demás?
+[LH_HOST_1]
+Se los llevaron. Oí algo sobre una casa de ladrillo... En algún lugar al este de aquí.
+
+[zakladnik1a]
+¡Sígueme!
+[zakladnik1b]
+¿Qué debo hacer?
+[zakladnik1c]
+Espera...
+[wezwanie]
+Aquí, tengo otro. Trae el coche.
+
+[zakladnik2]
+¿Quién eres? ¿Qué quieres?
+[LH_JOHN_2]
+Soy la caballería.
+[LH_JOHN_3]
+¿Dónde están los demás rehenes?
+[LH_HOST_2]
+No estoy seguro. Se supone que uno está en una tiendecita, no lejos de aquí.
+[LH_HOST_3]
+Además hablaron de un almacén... quizá ahí.
+
+[zakladnik3]
+¡Salgamos de aquí rápido! ¡Seguro que aparece alguien más!
+
+[uciekinier]
+¡Vaya! ¡Algún idiota se está haciendo el héroe!
+[CLS_JOHN_1]
+¿Tienes idea de qué va realmente esta misión de rescate?
+[CLS_JANE_3]
+Llevo todo el rato intentando averiguarlo, pero no encuentro respuestas lógicas. Quizá el Don nos lo cuente luego.

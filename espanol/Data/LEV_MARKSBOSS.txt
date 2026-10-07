@@ -1,0 +1,124 @@
+[ok]
+Vale.
+[Yes]
+Sí.
+[No]
+No.
+[ogrodzenie1]
+Alta tensión...
+[ogrodzenie2]
+Tengo que cortar el suministro eléctrico si quiero pasar esta valla sin achicharrarme...
+[ogrodzenie3]
+Qué suerte, la corriente está cortada.
+[skill_use]
+A ver si tengo suficiente talento técnico...
+[tech1]
+Eso no ha funcionado.
+[tech2]
+¡Así se hace!
+[tech3]
+No, mejor lo dejo...
+[gacie_zabity]
+Ramuel está muerto... se acabó...
+[complited]
+Misión cumplida.
+[guard_gen1]
+Silencio... ¿qué pasa?
+[guard_gen2]
+¡ALARMA! ¡ALARMA! ¡INTRUSO!
+[zasilanie1]
+Se ha vuelto a ir la corriente.
+[zasilanie2]
+¿Otra vez?
+[zasilanie3]
+Ve a ver qué ha pasado.
+[zasilanie4]
+El intruso ha manipulado el generador.
+[zasilanie5]
+¡Llevaos a unos cuantos y matadlo!
+[body]
+¡Cerdo!
+[body1]
+¡Un intruso! ¡Hemos encontrado un cuerpo!
+[tele1]
+Solo quería decir que esto va cuesta abajo.
+[tele2]
+Toda mi vida se está yendo por el desagüe.
+[tele3]
+Cariño, llegaré tarde esta noche.
+[tele4]
+No me esperes para cenar.
+[tele5]
+¿Qué pasa?
+[tele6]
+Oh, número equivocado.
+[gadu1]
+¿Cómo está tu mujer, Victor?
+[gadu1a]
+¡Déjame en paz!
+[gadu2]
+¿Qué pasa?
+[gadu2a]
+Nada, todo bien.
+[gadu3]
+¿Tienes fuego?
+[gadu3a]
+Ya no fumo.
+[gadu4]
+¿Tienes cambio?
+[gadu4a]
+¡Quítate de mi cara!
+[gadu5]
+Saluda a tu familia de mi parte.
+[gadu5a]
+Gracias.
+[no_laboratory]
+Tengo que ocuparme del laboratorio de drogas.
+[przeklenstwo]
+¡Maldita sea!
+[skill_use]
+A ver si tengo suficiente talento técnico...
+[tech1]
+Está claro que no...
+[tech2]
+¡Ha funcionado!
+[tech3]
+Ni de broma...
+[bramka1]
+Necesito una llave.
+[drzwi]
+Cerrado.
+[ramuel]
+¿Quién eres? ¿No sabes quién soy? ¡Sal de aquí!
+[help]
+¡Socorro!
+[MB_JOHN_1]
+Ya estoy aquí. Pasa algo, eso está clarísimo.
+[MB_JOHN_2]
+Hay guardias armados corriendo por todas partes y la casa de Ramuel parece una fortaleza...
+[MB_JANE_1]
+¿Ya tienes un plan?
+[MB_JOHN_3]
+No, solo sé que tengo que aprovechar la cobertura de la oscuridad. Si no, necesitaré un ejército entero para entrar ahí.
+[MB_JANE_2]
+¿Ves algo raro?
+[MB_JOHN_4]
+Sí, una especie de fábrica. Podría ser el taller local, o un laboratorio de drogas. Solo lo vi un momento desde lejos.
+[MB_JANE_3]
+Un laboratorio de drogas tendría sentido, quizá quieran producir ahí Cold Zero.
+[MB_JOHN_5]
+Echaré un vistazo... llama al Don y dile que le traeré un regalito...
+[MB_JANE_4]
+¿A qué te refieres?
+[MB_JOHN_6]
+Aquí no hay forma de interrogar a Ramuel. No va a querer decirme enseguida dónde está Martinez.
+[MB_JOHN_7]
+Tengo que secuestrarlo para ganar tiempo... el Don debería organizar la recogida de Ramuel, no podré sacarlo por la frontera.
+[MB_JOHN_8]
+Ya tengo a Ramuel. ¿Cuál es el plan?
+[MB_JANE_5]
+El Don ya ha asignado a alguien, el hombre se hace llamar Rodriguez Del Monte.
+[MB_JANE_6]
+Te esperará a las afueras de la ciudad y se hará cargo de Ramuel.
+[MB_JOHN_9]
+Bien, volveré en cuanto lo haya entregado.

@@ -1,0 +1,74 @@
+[not_manual_door]
+Esta puerta no se puede abrir a mano.
+[killed_shark1]
+¡Genial!
+[killed_shark2]
+¡Ahora tengo que cargarlo!
+[killed_shark3]
+Eso ha salido mal. Shark está muerto.
+[exit]
+SALIDA
+[deal1]
+Entonces, ¿qué? ¿Compráis?
+[deal2]
+No hay mucho que pensar.
+[deal3]
+¡Esto es material de primera!
+[deal4]
+Decidíos, ¿queréis? No tengo todo el día.
+[deal5]
+Bueno, no sé...
+[deal6]
+Tenemos que pensarlo...
+[deal7]
+Lo cogeríamos, pero...
+[deal8]
+El precio es demasiado alto.
+[deal9]
+¡Es una trampa!
+[nie_ma_sharka]
+He venido a por Shark.
+[nie_ma_laptopa]
+Pasar de un ordenador que quizá tenga datos importantes sería una estupidez.
+[nie_ma_walizki]
+Sin drogas.
+[Mision_complet]
+Misión cumplida.
+
+[LG_SHARK_1]
+¿Qué quieres?
+[LG_JOHN_1]
+¿Dónde está Martinez?
+[LG_SHARK_2]
+¿Quién?
+[LG_JOHN_2]
+No me gusta repetirme...
+[LG_SHARK_3]
+No conozco a ningún Martinez. ¿Qué quieres?
+[LG_JOHN_3]
+La ignorancia suele ser una bendición, pero hoy no. Despídete del mundo...
+[LG_SHARK_4]
+Espera, espera... lo conozco, pero no sé dónde está.
+[LG_JOHN_4]
+Está claro que no lo entiendes.
+[LG_JOHN_5]
+Un portátil...
+[LG_SHARK_5]
+¡Cerdo asqueroso!
+[LG_SHARK_6]
+Vale... para... te lo diré...
+[LG_JOHN_6]
+Soy todo oídos...
+[LG_SHARK_7]
+Hector está en El Coro...
+[LG_JOHN_7]
+¿El Coro? ¿Dónde demonios está El Coro?
+[LG_SHARK_8]
+En México...
+[LG_JOHN_8]
+¿Me permites?
+
+[LG_JOHN_9]
+No soy un experto, pero desde que conocí a Jane distingo un cable de red de PC de un cable de corriente normal.
+[LG_JOHN_10]
+Así que debe haber un servidor por aquí, que quizá tenga datos útiles. Debería comprobarlo.

@@ -1,0 +1,533 @@
+[SR_1]
+Hi.
+[SR_2]
+If you want to use the shooting range, you will have to leave all your weapons and accessories in the changing room lockers.
+[SR_3]
+I can only let you go when you have put all our weapons back into the locker. 
+[SR_4]
+Haven't you forgotten something?
+[SR_5]
+What can I do for you?
+[SR_6]
+Hello.
+Entry to the shooting range costs $50. Please don't forget to leave your weapons and accessories in one of the changing room lockers.
+[tut_0]
+Hi John! I am Steven Coleman and I'm your new trainer.
+[tut_01]
+If you want to interrupt our training sessions, just press ESC at any time. You can then select Exit Game to leave.
+[tut_1a1]
+How about us starting with something simple like moving about?
+[tut_1a2]
+Just move the mouse cursor across the screen.
+[tut_1a3]
+As you can see, the shape of the cursor changes when it is over a wall or some other obstacle.
+[tut_1a4]
+If this happens you will not be able to go there. However if the mouse cursor is showing four flashing arrows this indicates that you are able to move.
+[tut_1b1]
+Simply click the left mouse button to move.
+[tut_1b2]
+Now please go and stand in the yellow circle in the middle of the hall. 
+[tut_1c1]
+Very good.
+[tut_1c2]
+Now move the mouse cursor onto me.
+[tut_1c3]
+The cursor is now showing that whilst an action is possible, you are too far away to actually perform it. 
+[tut_1c4]
+Come a bit closer and observe how the cursor changes into a talk icon.
+[tut_1c5]
+Click once with the left mouse button to talk with me. You should see the talk icon being activated.
+[tut_1c6]
+Now please talk to me.
+[tut_1c7]
+Very good.
+[tut_1c8]
+>From now on you may train for as long as you like. 
+[tut_1c9]
+Please just talk to me if you wish to repeat a session or if you are ready to start the next one.
+[tut_1c10]
+Now spend a bit of time practicing what you have learnt.
+[rozmowa]
+What would you like to do next? Shall we repeat this session (Repeat) or continue with the next one (Continue)?
+[powturka]
+Repeat
+[next]
+Continue
+[tut_1d1]
+You have four different ways of moving.
+
+[tut_1d2]
+You can select how you want to move by clicking on one of the four icons above your face.
+[tut_1d3]
+>From left to right these are:
+[tut_1d4]
+Sneak
+[tut_1d5]
+cautious walk
+[tut_1d6]
+walk
+[tut_1d7]
+and run.
+[tut_1d8]
+The movement modes differ from each other in how fast you move as well as the amount of noise you make whilst moving. 
+[tut_1d9]
+Now run about a bit using the different move modes. Observe the differences.
+[tut_1e1]
+Next I'm going to teach you how to move sideways and backwards.
+[tut_1e2]
+It's very simple. Hold the CRTL button down and then point to the place you want to move to with the mouse.
+[tut_1e3]
+Then move by clicking with the left mouse button.
+[tut_1e4]
+Please note that the cursor position will determine whether you move sideways or backwards.
+[tut_1e5]
+Now practice moving sideways and backwards.
+
+
+[tut_1f1]
+The next important key is the SHIFT key.
+[tut_1f2]
+Pressing the SHIFT key will make you stop dead in your tracks. 
+[tut_1f3]
+Keep the SHIFT key depressed and then move the mouse in a circle around you. You will see that you turn with the mouse cursor. 
+[tut_1f4]
+Come and talk to me when you are ready to start with the next session.
+
+
+[tut_1g1]
+Now I'm going to teach you how to get over obstacles.
+[tut_1g2]
+Go to the gym horse.
+[tut_1g3]
+If you move your mouse over the gym horse the cursor changes its shape to an action icon.
+[tut_1g4]
+If you are too far away from the gym horse, then the icon will have a line through it.
+[tut_1g5]
+You can jump over the gym horse if the mouse pointer is in the shape of a bent arrow.
+[tut_1g6]
+Just click on the left mouse button to jump.
+[tut_1g7]
+Now jump over the gym horse a couple of times.
+
+[tut_1h1]
+Now that you can deal with obstacles, let's move onto the subject of hiding.
+[tut_1h2]
+Please move into the yellow circle.
+[tut_1h3]
+Hiding works in a similar way to getting over obstacles.
+[tut_1h4]
+I have created an improvised hiding place for you to practice this.
+[tut_1h5]
+If you click on the edge you will be able to hide underneath the benches.
+[tut_1h6]
+You will remain in your hiding place, until you click the edge again.
+[tut_1h7]
+Now please practice what you have just learnt.
+
+[tut_2a1]
+The next important thing that you have to learn is how to work the camera.
+[tut_2a2]
+The camera is connected to you and will move with you at all times.
+[tut_2a3]
+You can however disengage the camera and use it to have a good look around the area.
+[tut_2a31]
+Press any of the arrow keys on your keyboard to do this.
+[tut_2a4]
+Now you can freely move the camera around the area using the arrow keys.
+[tut_2a5]
+You can also steer the camera using the mouse, by moving the pointer to the edge of the screen. 
+[tut_2b1]
+To get the camera to return back to where you are standing just left click on the face at the bottom of the screen with your mouse.
+[tut_2b2]
+To reconnect the camera to yourself, just use the right mouse button rather than the left when you click on the face.
+[tut_2b3]
+Now please practice using the camera.
+
+[tut_2c1]
+The camera is not just limited to moving around, but can also turn, tilt and zoom.
+[tut_2c2]
+To turn the camera hold the middle mouse button or wheel down and move the mouse. The central mouse button is usually the wheel.
+[tut_2c3]
+To zoom in or out simply roll the mouse wheel forwards or backwards.
+[tut_2c4]
+Now practice the new camera moves you've learned - it's a very important piece of equipment.
+
+[tut_2d1]
+The last thing you need to know about the camera is its tilt lock.
+[tut_2d2]
+The tilt lock is operated via the first camera icon to the left of the face.
+[tut_2d3]
+First adjust the camera to your preferred angle. Now left-click the camera icon with the mouse to lock it in position.
+[tut_2d4]
+To release the tilt lock, just click the camera icon again.
+[tut_2d5]
+Please note that the camera can still turn and zoom even when the tilt lock is on.
+[tut_2d6]
+Now please go and practice everything I have taught you about the camera.
+[tut_2d7]
+Come and talk to me when you are ready to start the next session.
+
+[tut_3a1]
+Follow me please.
+[tut_3a2]
+To my left and right are two doors leading into the changing room.
+[tut_3a3]
+I will now teach you how to open doors.
+[tut_3a4]
+To open the door on my right, go up close to the door and click on it with the left mouse button.
+[tut_3a5]
+Please note that the pointer changes into a hand when it is over a door.
+[tut_3a6]
+This means that you can open it.
+[tut_3a7]
+The door to my left is different.
+[tut_3a8]
+It can't be opened by just by clicking on it.
+[tut_3a9]
+Please look carefully at the wall to the right of the door. You will see a switch.
+[tut_3a10]
+Go up to it and click on the switch with the left mouse button. This will open the door.
+[tut_3a11]
+Let me know when you have finished practicing opening doors.
+
+[tut_3b1]
+Follow me into the changing room and go and stand in the yellow circle.
+[tut_3b2]
+Opening boxes and lockers works in the same way as opening doors or using switches.
+[tut_3b3]
+However this door is locked.
+[tut_3b4]
+You are going to have to use your technical skills to open it.
+[tut_3b5]
+Look for the spanner icon, which you will find to the right of the movement icons.
+[tut_3b6]
+This icon enables you to use your technical skills. Click on the icon with your left mouse button. 
+[tut_3b7]
+Note that your mouse cursor has now changed into a spanner.
+[tut_3b8]
+Now you are going to see if you can pick the lock by clicking on the locker door with the spanner.
+[tut_3b9]
+It doesn't always work first time. However the more technically skilled you are, the easier this will become.
+[tut_3b10]
+Now open the locker.
+
+
+[tech1]
+You have to employ your technical skills to open this locker.
+[tech2]
+It doesn't seem to have worked. Try again.
+
+[tut_3b11]
+Very good.
+[tut_3b11a]
+The locker is open.
+[tut_3b11b]
+Click on the locker with your left mouse button to view its contents.
+[tut_3b12]
+As you can see, two windows have appeared on screen.
+[tut_3b13]
+The left window shows the contents of the locker.
+[tut_3b14]
+The right window shows the contents of your inventory. These are all the objects that you carry around with you.
+[tut_3b15]
+To take something out of the locker click it with the left mouse button and move it into your inventory. 
+[tut_3b16]
+Left click again to place the object into your inventory.
+[tut_3b17]
+If you click in the area outside of either window, the object will fall to the floor.
+[tut_3b18]
+Now please remove all objects from the locker and place them in your inventory.
+[tut_3b19]
+Let me know when you've finished.
+
+[tut_3c1]
+Click on the inventory icon at the bottom right hand side of the screen, to have a look at what you are carrying around with you or to hide the window again.
+[tut_3c2]
+Note that the inventory icon's color changes depending on how much is being carried.
+[tut_3c3]
+If it is green or yellow then all is fine. 
+[tut_3c4]
+If the inventory icon turns red then you are carrying too much and will have difficulty moving.
+[tut_3c5]
+If the inventory icon starts turns red and starts flashing you are overloaded.
+[tut_3c6]
+This means that you will no longer be able to move.
+[tut_3c7]
+You are simply carrying too much weight and will need to drop some items, by placing them on the floor.
+[tut_3c8]
+The top of the inventory window shows how much you are currently carrying and how much more you can manage.
+[tut_3c9]
+Each object's description contains information on how heavy it is.
+[tut_3c10]
+Place your mouse cursor over an object in your inventory and press the right mouse button, to view the item's description.
+[tut_3c11]
+Come and talk to me when you are ready to start the next session.
+
+[tut_3f1]
+Now I am going to teach you how to use some of the objects. 
+[tut_3f2]
+You will have seen that the locker contains clothing - a black leather coat.
+[tut_3f3]
+To put something on, click and hold the mouse button down over the slot left of the compass.
+[tut_3f4]
+A complete inventory list of the clothes available to you will appear. Keeping the mouse button depressed move the mouse cursor to the coat.
+[tut_3f5]
+When you have reached the coat let go of the left mouse button.
+[tut_3f6]
+Simple isn't it? Now put the coat on.
+
+[tut_3g1]
+You can also wear a bulletproof vest.
+[tut_3g2]
+This is put on in exactly the same way as the coat, you just use the next slot to the camouflage slot.
+[tut_3h1]
+Left of this you will see another slot with a red cross.
+[tut_3h2]
+This slot is for selecting Medkits.
+[tut_3h3]
+So if you have lost life energy during battle, choose an appropriate Medkit to restore it.
+[tut_3h4]
+As you can see the functionality of the slots are identical, but each serves a different type of item.
+[tut_3h5]
+Now please spend a little time using the slots.
+
+[tut_4a1]
+Let's move onto weapons and fighting.
+[tut_4a2]
+You will find a new locker in the changing room. In it are some weapons, ammunition and a few tennis balls.
+[tut_4a3]
+Please bring them here.
+[tut_4a4]
+Very good.
+[tut_4a5]
+Weapons are selected just like clothes, however the weapon slot is used instead.
+[tut_4a6]
+You will find the weapon slot to the left of the face. Look for the fist icon.
+[tut_4a7]
+Please choose the pistol. To do this just move the mouse cursor over it whilst keeping the mouse button depressed.
+[tut_4a8]
+Please note that the weapon order in the weapon slot list is dependent on the weapon order in your inventory.
+[tut_4a9]
+Put the weapon away again. Do this by selecting the fist in the weapon list.
+[tut_4a10]
+Now open your inventory and move the weapons about in way that changes the order in the weapon's listing.
+[tut_4a11]
+Come and talk to me when you are ready to continue.
+
+[tut_4c1]
+Before I teach you the basics about shooting, I would like to show you how to repair weapons.
+[tut_4c2]
+You can see a bar under the weapon's slot. This shows the weapon's state of repair.
+[tut_4c3]
+Compare the condition of your two weapons.
+[tut_4c4]
+As you can see, your pistol is in better shape than your submachine gun. It appears to have seen quite a bit of action.
+[tut_4c5]
+Your weapon's condition determines how quickly it overheats and more vitally how accurate its aim is.
+[tut_4c6]
+You should therefore repair your weapons from time to time.
+[tut_4c7]
+Now select the submachine gun.
+[tut_4c8]
+To repair the submachine gun, click the spanner icon with the left mouse button.
+[tut_4c9]
+The mouse cursor will now change into a spanner. Then left-click the weapon slot containing the submachine gun with the spanner cursor.
+[tut_4c10]
+You can only repair a weapon that you are holding in your hand.
+[tut_4c11]
+Let me know when you have managed to repair your submachine gun. You'll probably need to try a couple of times.
+[tut_4d1]
+You will need to load your weapon with ammunition before shooting.
+[tut_4d2]
+Look for the cartridge icon to the right of the weapon slot. This is the ammunition slot.
+[tut_4d3]
+Left-click the cartridge with your mouse and hold the button depressed to load your weapon. Place the mouse over the gun and release the mouse button.
+[tut_4d4]
+Use the L key to quickly reload the weapon with the same type of ammunition.
+[tut_4d5]
+Load your weapon and then go and stand in the yellow circle when you are ready.
+
+[tut_4e1]
+Shooting is very simple.
+[tut_4e2]
+Just point at the target with your mouse and press the right mouse button.
+[tut_4e3]
+Right clicking once will fire a single shot. Clicking and holding will fire a rapid series of shots.
+[tut_4e4]
+Practice shooting at the targets.
+[tut_4e5]
+Let your weapon cool off if it overheats. If it jams, reload it with ammunition a couple of times. This usually solves the problem.
+[tut_4e6]
+The darker the color of the weapon in the weapon slot becomes, the closer it is to overheating.
+[tut_4e7]
+Come and talk to me when you are ready to continue.
+
+[tut_4f1]
+I am sure you have noticed that your mouse pointer changes into a targeting cursor once you move it over the target.
+[tut_4f2]
+The targeting cursor changes according to your distance from the target. This is also dependent on your weapon's firing range.
+[tut_4f3]
+The smaller the targeting cursor's circle gets, the more likely you are to hit the target.
+[tut_4f4]
+A red cross on the targeting cursor means that either you don't have a clear line of vision to the target....
+[tut_4f5]
+or that it is out of range. You can try to shoot anyway, but a hit will then be down to sheer luck or coincidence.
+[tut_4f6]
+Come and talk to me when you are ready to continue.
+
+[tut_4g1]
+We spoke about the different ways of moving, such as sneaking or running, when we started these sessions.
+[tut_4g2]
+Let me tell you a couple of things about moving, which influence your shooting ability.
+[tut_4g3]
+Your opponents have difficulty hitting a moving target. So walking or running will offer you protection.
+[tut_4g4]
+You however are quite skilled at hitting moving targets.
+[tut_4g5]
+If you sneak or walk cautiously you will have your weapon at the ready and can fire more quickly than when walking or running.
+[tut_4g6]
+As you have your weapon ready you are also able to target more accurately.
+[tut_4g7]
+Now take aim at one of the targets whilst in sneak or cautious walk mode.
+[tut_4g8]
+You will see a small targeting accuracy bar appear as soon as the target cursor is placed over the target.
+[tut_4g9]
+This bar will fill the longer you hold the target cursor over the target. This indicates increasing accuracy.
+[tut_4g10]
+The better you are at handling a weapon, the more effective you will be at hitting your targets during the course of the game.
+[tut_4g11]
+As soon as you have fired a shot the target bar will return to zero.
+[tut_4g12]
+Accurate targeting only makes sense when you are dealing with single shots.
+[tut_4g13]
+Now please practice targeting, in particular accurate targeting.
+
+[tut_4h1]
+There is one last thing that you need to learn about shooting. That is shooting from behind cover.
+[tut_4h2]
+Please go and stand in the yellow circle behind that box.
+[tut_4h3]
+Now listen. To shoot from behind this cover, hold down the shift key.
+[tut_4h4]
+Aim at one of the targets with your cursor.
+[tut_4h5]
+The cursor will of course change automatically into the red cross-hair cursor. Don't let this put you off and click the right mouse button to shoot.
+[tut_4h6]
+You will step out from behind the cover, shoot and return automatically.
+[tut_4h7]
+It doesn't always work, but experience will tell you how far away from the corner that you need to be.
+[tut_4h8]
+This maneuver may seem complicated at first, but I can highly recommend mastering it. It will make fighting a lot easier!
+[tut_4h9]
+Now really get down to some hard practice shooting from behind cover. Trust me, you will thank me for making you do this.
+[tut_4i1]
+You have probably found the tennis balls in the locker.
+[tut_4i2]
+We use tennis balls to simulate throwing grenades or stones.
+[tut_4i3]
+A grenade is a powerful, but dangerous and difficult weapon to master.
+[tut_4i4]
+To throw a grenade, first select it from the slot to the left of the face.
+[tut_4i5]
+Note that your weapon is deactivated once you've picked up the grena.. the tennis ball and are holding it in your hand.
+[tut_4i6]
+The mouse cursor will change as soon as you have selected and are holding it. You can then point to where you wish to throw it.
+[tut_4i7]
+Simply left click the picture in the weapon slot to pick your weapon back up again.
+[tut_4i8]
+Now practice throwing. Note that a grenade will also bounce off walls and objects...
+[tut_4i9]
+Just try to throw all the tennis balls into the white circle in the middle of the gym.
+[tut_4j1]
+Follow me.
+[tut_4j2]
+This is Joe.
+[tut_4j3]
+Joe is going to help us with the next part of this session.
+[tut_4j4]
+Joe and I are going to teach you how to carry a body.
+[tut_4j5]
+To pick Joe up move your mouse cursor over him and hold the CTRL button down.
+[tut_4j6]
+The cursor will change and show you a little animated sequence. Left-click on Joe with the mouse to pick him up.
+[tut_4j7]
+So now pick Joe up.
+[tut_4j8]
+Very good.
+[tut_4j9]
+Off you go. Carry Joe away and throw him down somewhere.
+[tut_4j10]
+Note that you have put your weapon away. Your weapon slot now indicates that you are carrying a body.
+[tut_4j11]
+Just choose a weapon or select the fist from the weapon slot to drop Joe onto the floor.
+[tut_4j12]
+Now carry Joe to the yellow circle that I've drawn onto the floor with chalk again.
+[tut_4j13]
+Very good.
+[tut_4j14]
+Look at the box that has just appeared there.
+[tut_4j15]
+I want you to hide Joe in this box once you've had enough practice picking him up and putting him down again.
+[tut_4j16]
+To do this just carry Joe up close to the box and click on it using the left mouse button.
+[tut_4j17]
+Let me know when we can start the last part of this tutorial.
+
+[tut_5a1]
+Finally I'd like to give you some useful hints and tips.
+[tut_5a2]
+Look at the bars to the right of the face. Find the one, second from the bottom.
+[tut_5a3]
+This indicates how well your enemies can see you.
+[tut_5a4]
+The lighter it is or the closer you are to sources of light, the more visible you will be to your enemies.
+[tut_5a5]
+A good solution to this is shooting at lamps or if at all possible eliminating the power supply.
+[tut_5a6]
+Let me know when you are ready for me to continue.
+
+[tut_5b1]
+In time you will notice that enemies will shoot at you despite the fact that you are hidden, perhaps behind a box.
+[tut_5b2]
+This can mean that the object is simply not big enough for you to be completely hidden when standing behind it.
+[tut_5b3]
+If this is the case then simply try to change to sneak mode.
+[tut_5b4]
+Sneaking means you are crouching down and this difference could prove decisive.
+[tut_5b5]
+Let me know when you are ready to continue.
+
+[tut_5c1]
+Another really important factor is how loud you are.
+[tut_5c2]
+Each of the four movement modes has a different noise level.
+[tut_5c3]
+Look for the bar at the far bottom right-hand side of the face.
+[tut_5c4]
+This indicates how the amount of noise you are making.
+[tut_5c5]
+Shooting of course produces the most amount of noise. However each weapon has it's own unique noise level.
+[tut_5c6]
+You can sometimes use a silencer to reduce a weapon's noise level very considerably.
+[tut_5c7]
+The other alternative is choosing the near-silent option of close combat using fists or knives.
+[tut_5c8]
+Remember that your enemies can also make a noise.
+[tut_5c9]
+If one enemy starts to shoot at you, another may hear this and come to his aid.
+[tut_5c10]
+So watch this bar during the course of different activities to get a feel for how much noise you are making.
+[tut_5d1]
+The very last thing I need to tell you is how to check what your enemy can see.
+[tut_5d2]
+To do this you must use the head icon with a view range.
+[tut_5d3]
+You will find it to the left of the movement icons.
+[tut_5d4]
+Click the view range icon with the left mouse button and then point at your enemy with the mouse cursor.
+[tut_5d5]
+Just click on the view range icon again with the left mouse button to switch the enemies' view range off.
+[tut_5d6]
+Now spend some time practicing everything that I've taught you. You will need all these skills to complete your missions.
+[tut_5d7]
+When you have mastered these training sessions, just press the ESC key to return to the Main menu and play the game. Have fun!

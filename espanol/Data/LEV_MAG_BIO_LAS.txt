@@ -1,0 +1,67 @@
+[OK]
+vale
+[YES]
+SГ­
+[NO]
+No
+[patrol1]
+Помогите!
+[patrol2]
+Сукин сын!
+[uaz1]
+Живей! Я не хочу провести здесь зиму!
+[uaz2]
+Я не знаю что с ним происходит!
+[uaz3]
+Черт! Я не могу отремонтировать это!
+[radio1]
+База! База! Вы меня слышите?
+[radio2]
+Я плохо слышу тебя, повтори!
+[radio3]
+Вас понял!
+[radio4]
+Что нам делать дальше?
+[radio5]
+Командир, я боюсь что мы потеряли связь.
+[radio6]
+Хорошо, вы двое - проверьте дорогу!
+[radio7]
+Смотри, это один из наших!
+[radio8]
+Командир, мы нашли одного из наших. Он мертв!
+[radio9]
+Давай сюда, будем ждать здесь помощи
+[radio10]
+Смотри, вот где проблема с дорогой!
+[radio11]
+Жди здесь, я попробую это исправить
+
+[WS_SERG_1]
+Ya estamos aquГ­. Perdona que solo te dГ© mi Beretta y poca municiГіn.
+[WS_SERG_2]
+Tus cosas aterrizaron mal. Directo en la zona prohibida, donde no puedo ir.
+[WS_JOHN_1]
+Esto empieza bien...
+[WS_SERG_3]
+El piloto dice que en el sector 4f3, un poco hacia el este, si los soldados no lo han encontrado ya.
+[WS_JOHN_2]
+ВЎGracias por tu pistola, Sergei! RecГіgeme aquГ­ en una hora.
+[WS_SERG_4]
+SГ­, mejor me voy, antes de que me vean los soldados.
+
+[WS_JOHN_3]
+ВїSergei? Tenemos que acordar un nuevo punto de encuentro. Tuve que salir del almacГ©n por una mina vieja. No sГ© exactamente dГіnde estoy, pero...
+[WS_SERG_5]
+SГ© dГіnde es. Solo hay una salida en la mina vieja. EspГ©rame allГ­, voy ahora mismo.
+[WS_JOHN_4]
+Bien, esperarГ© aquГ­.
+
+[skill_use]
+PodrГ­a ver si soy lo bastante hГЎbil con la tГ©cnica...
+[tech1]
+Vaya, eso no ha salido muy bien.
+[tech2]
+ВЎHurra!
+[tech3]
+Supongo que soy demasiado torpe para eso.

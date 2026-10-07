@@ -1,0 +1,124 @@
+[ok]
+Okay.
+[Yes]
+Yes.
+[No]
+No.
+[ogrodzenie1]
+High voltage...
+[ogrodzenie2]
+I have to cut off the power supply if I want to get over this fence without getting fried...
+[ogrodzenie3]
+What luck, the power is off.
+[skill_use]
+Let's see if I'm technically gifted enough...
+[tech1]
+That didn't work.
+[tech2]
+That's the way to do it!
+[tech3]
+No, I think I'd better leave it alone...
+[gacie_zabity]
+Ramuel is dead..that's it then...
+[complited]
+Mission completed.
+[guard_gen1]
+Quiet...what's wrong?
+[guard_gen2]
+ALARMA! ALARMA! INTRUSO!
+[zasilanie1]
+The power is out again.
+[zasilanie2]
+Again?
+[zasilanie3]
+Go find out what's happened.
+[zasilanie4]
+The intruder interfered with the generator.
+[zasilanie5]
+Take a few people and kill him!
+[body]
+Swine!
+[body1]
+An intruder! We've found a body!
+[tele1]
+I just wanted to say that it's going downhill.
+[tele2]
+My whole life is going down the drain.
+[tele3]
+Sweetheart, I'll be late tonight.
+[tele4]
+Don't wait dinner for me.
+[tele5]
+What's wrong?
+[tele6]
+Oh, wrong number.
+[gadu1]
+How's your wife, Victor?
+[gadu1a]
+Piss off!
+[gadu2]
+What's wrong?
+[gadu2a]
+Nothing, everything's fine.
+[gadu3]
+Got a light?
+[gadu3a]
+I don't smoke any more.
+[gadu4]
+Got any change?
+[gadu4a]
+Get out of my face!
+[gadu5]
+Give your family my regards.
+[gadu5a]
+Thanks.
+[no_laboratory]
+I have to take care of the drug lab.
+[przeklenstwo]
+Damn!
+[skill_use]
+Let's see if I'm technically gifted enough...
+[tech1]
+Obviously not...
+[tech2]
+It worked!
+[tech3]
+Not a chance...
+[bramka1]
+I need a key.
+[drzwi]
+Locked.
+[ramuel]
+Who are you? Don't you know who I am? Get out of here!
+[help]
+Help!
+[MB_JOHN_1]
+I'm here. Something's going on, that's immediately obvious.
+[MB_JOHN_2]
+Armed guards are running around everywhere and Ramuel's house looks like a fortress...
+[MB_JANE_1]
+Do you already have a plan of action?
+[MB_JOHN_3]
+No, I just know that I have to use the cover of darkness. Otherwise I'll need an entire army to get in there.
+[MB_JANE_2]
+Do you see anything unusual?
+[MB_JOHN_4]
+Yes, a sort of factory. It could be the local workshop, or a drug laboratory. I only saw it briefly from a distance.
+[MB_JANE_3]
+A drug lab would make sense, maybe they want to produce Cold Zero there.
+[MB_JOHN_5]
+I'll take a look around...call the Don and tell him I'll bring him a present...
+[MB_JANE_4]
+What do you mean by that?
+[MB_JOHN_6]
+There's no chance of questioning Ramuel here. He won't want to tell me right away where Martinez is.
+[MB_JOHN_7]
+I have to kidnap him to gain time...the Don should make arrangements for picking up Ramuel, I won't be able to get him over the border.
+[MB_JOHN_8]
+I have Ramuel. What's the plan?
+[MB_JANE_5]
+The Don has already assigned someone, the man calls himself Rodriguez Del Monte.
+[MB_JANE_6]
+He'll wait for you at the edge of town and will take custody of Ramuel.
+[MB_JOHN_9]
+Good, I'll return as soon as I've delivered him.

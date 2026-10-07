@@ -1,0 +1,26 @@
+[TECHCOL_SECURED]
+I could try it..
+[TECHCOL_INIT]
+Let's try it...
+[TECHCOL_SUCCES]
+I'm the greatest!
+[TECHCOL_FAIL]
+That needs some more practice, John.
+[TECHCOL_INIT_FAILED]
+That's just too complicated.
+[ok]
+OK.
+[yes]
+Yes.
+[no]
+No.
+[krata_closed]
+I need a key for this...
+[waliza]
+I need a suitcase. That's what I'm here for.
+[WS_JOHN_3]
+Sergei? We have to agree on a new meeting place. I had to leave the warehouse through an old mine. I don't know exactly where I am, but...
+[WS_SERG_5]
+I know where is. Only one exit in old mine. You wait there, I come right away.
+[WS_JOHN_4]
+Good, I'll wait here.

@@ -1,0 +1,49 @@
+[skill_use]
+I could see if I'm technically clever enough...
+[tech1]
+Nuts, that wasn't so hot.
+[tech2]
+Hurrah!
+[tech3]
+Guess I'm too clumsy for that.
+[bramka1]
+I need a key.
+[drzwi]
+Locked.
+
+[zakladnik1]
+Finally! I was beginning to think it was all over!
+[LH_JOHN_1]
+Where are the others?
+[LH_HOST_1]
+They were taken away. I heard something about a brick house... Somewhere east of here.
+
+[zakladnik1a]
+Follow me!
+[zakladnik1b]
+What should I do?
+[zakladnik1c]
+Wait...
+[wezwanie]
+Here, I have another one. Bring up the car.
+
+[zakladnik2]
+Who are you? What do you want?
+[LH_JOHN_2]
+I'm the cavalry.
+[LH_JOHN_3]
+Where are the other hostages?
+[LH_HOST_2]
+I'm not sure. One is supposed to be in a little store, not far from here.
+[LH_HOST_3]
+Otherwise they talked about a warehouse...maybe there.
+
+[zakladnik3]
+Let's get out of here fast! Someone else is bound to show up soon!
+
+[uciekinier]
+Oh riiight! Some idiot's playing the hero here!
+[CLS_JOHN_1]
+Do you have any idea what this rescue mission is really all about?
+[CLS_JANE_3]
+I've been trying to figure that out the entire time, but I can't find any logical answers. Maybe the Don will tell us later.

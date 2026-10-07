@@ -1,0 +1,64 @@
+[sol4]
+¡Viene!
+[sol1]
+¡Apuntad hacia esos arbustos!
+[sol2]
+¡Fuego!
+[sol3]
+¡Mierda!
+[gen]
+¡Encontrad a ese americano y eliminadlo!
+[gen1]
+¡Encontrad a ese bastardo!
+[gen2]
+¡No dejéis que llegue a la hacienda en ningún caso!
+[mart1]
+¡Ya está bien!
+[mart2]
+¿Tengo que encargarme yo mismo de cada yanqui estúpido?
+[mart3]
+¡Mierda!
+[mart4]
+¡Matadlo!
+[rambo]
+¡Me quedaré con su cabeza!
+[rambo1]
+¡Soy el mejor! Con pistola, con cuchillo, con mis propias manos.
+[rambo2]
+Esto va a acabar en un baño de sangre.
+[sniper]
+«Ni sabrá qué, dónde ni cómo...»
+[mc1]
+No puedo entrar.
+[mc2]
+Parece un conducto de ventilación. Eso podría funcionar...
+[HL_JOHN_1]
+He encontrado algo muy interesante...
+[HL_JANE_1]
+¿Dónde estás? ¿Por qué no has llamado?
+[HL_JOHN_2]
+Estoy en casa de Martinez... He encontrado un montón de notas.
+[HL_JOHN_3]
+Todos los componentes restantes de Cold Zero están aquí, en su laboratorio. La producción empezará en breve, así que hemos llegado a tiempo.
+[HL_JANE_2]
+Tienes que encontrar los componentes y destruirlos.
+[HL_JANE_3]
+Lo mejor sería volar todo el laboratorio, así nos aseguraremos de haber destruido todo lo relacionado con Cold Zero.
+[JOHN_LAB_3]
+Jane, he encontrado una sala de control. Hay un interruptor que pone «Pirosene». ¿Qué es eso?
+[JANE_LAB_1]
+Es un gas muy venenoso. Se usa, por ejemplo, en sistemas de autodestrucción.
+[JANE_LAB_2]
+Parece que Martinez pensó que podría destruir todas las pruebas de sus actividades si fuera necesario. Usémoslo para destruir Cold Zero.
+[JANE_LAB_3]
+John, ten cuidado. Ahí tendrán ropa de protección. Te protegerá un rato, ¡pero luego el gas hará pleno efecto!
+
+
+[skill_use]
+Podría ver si soy lo bastante hábil con la técnica...
+[tech1]
+Vaya, eso no ha salido muy bien.
+[tech2]
+¡Hurra!
+[tech3]
+Supongo que soy demasiado torpe para eso.

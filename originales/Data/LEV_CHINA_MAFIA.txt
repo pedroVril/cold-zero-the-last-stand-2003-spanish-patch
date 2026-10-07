@@ -1,0 +1,29 @@
+[TECHCOL_SECURED]
+I could try it..
+[TECHCOL_INIT]
+Let's try it...
+[TECHCOL_SUCCES]
+I'm the greatest!
+[TECHCOL_FAIL]
+That needs some more practice, John.
+[TECHCOL_INIT_FAILED]
+That's just too complicated.
+[ok]
+OK
+[yes]
+Yes
+[no]
+No
+[need_bomb_keys]
+I need two keys to defuse the bomb.
+[bomba_gadka_01]
+Halt!
+[bomba_gadka_02]
+Please don't hurt me!
+[bomba_gadka_03]
+How can I defuse this thing?
+[bomba_gadka_04]
+Two keys are required to defuse the bomb. I can show you where to find both of them. Ready?
+[bomba_gadka_05]
+I was born ready. Now let's get out of here!
+

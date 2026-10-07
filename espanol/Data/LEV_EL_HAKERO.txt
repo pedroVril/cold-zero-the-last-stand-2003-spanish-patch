@@ -1,0 +1,58 @@
+[G1]
+¡Ten cuidado! Es peligroso, con pistolas, con cuchillos y con sus propias manos. Cuando lo veas, dispara de inmediato. ¿Comprendes?
+
+[G2]
+Sí, comandante.
+
+[MC1]
+Algo no va bien aquí. Mi voz interior me dice que debería largarme rápido.
+
+[JOHN1]
+John
+
+"Jane? Ya sé qué era lo raro de este lugar. Está completamente desierto, desde hace al menos una década. Es una trampa.
+Jane
+
+"Ten cuidado, John."
+
+[PROCEED]
+CONTINUAR
+
+[G3]
+Debe de estar escondido cerca del banco. ¡Vamos!
+
+[LG_JOHN_1]
+Visita el hermoso México, tierra del sol. Menuda diversión. Jane, tenías razón. Todo esto apesta. Este agujero está desierto, no hay ni un alma.
+[LG_JANE_1]
+Vuelve. Seguiré buscando, quizá encuentre una pista en el portátil de Shark.
+[LG_JOHN_2]
+No, quiero echar un vistazo mientras estoy aquí...
+[LG_JANE_2]
+¿Por qué tienes que ser siempre tan cabezota y correr riesgos innecesarios?
+[LG_JOHN_3]
+Sí, tendré cuidado... Te lo dije, el lugar está desierto.
+
+[LG_JOHN_4]
+Como siempre tenías razón, no fue buena idea venir aquí. Era una trampa. Me estaban esperando.
+[LG_JANE_3]
+¿Crees que Martinez sabía que encontraríamos a Shark?
+[LG_JOHN_5]
+Es exactamente lo que creo. Sabe perfectamente que vamos tras él.
+[LG_JANE_4]
+Entonces me pregunto si Martinez también sabe que encontramos a Ramuel.
+[LG_JOHN_6]
+¿Quién?
+[LG_JANE_5]
+Busqué en todos los datos del portátil y encontré varios archivos codificados. Eran bases de datos con direcciones, traficantes, entregas, etc.
+[LG_JANE_6]
+Y ahí encontré el nombre Ramuel y seguí esa pista.
+[LG_JANE_7]
+Ramuel es la mano derecha de Martinez. Se ocupa de los «negocios rutinarios» e informa cada semana a su jefe en persona.
+[LG_JANE_8]
+Eso es seguro. Sin duda sabe dónde está Martinez.
+[LG_JOHN_7]
+¿Y dónde está ese Ramuel?
+[LG_JANE_9]
+En Antira, a unas 80 millas al suroeste de El Coro.
+[LG_JOHN_8]
+Envíame indicaciones, me pongo en marcha.

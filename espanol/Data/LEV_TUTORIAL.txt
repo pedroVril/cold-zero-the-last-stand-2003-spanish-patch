@@ -1,0 +1,533 @@
+[SR_1]
+Hola.
+[SR_2]
+Si quieres usar el campo de tiro, tendrás que dejar todas tus armas y accesorios en las taquillas del vestuario.
+[SR_3]
+Solo puedo dejarte pasar cuando hayas devuelto todas tus armas a la taquilla. 
+[SR_4]
+¿No se te ha olvidado algo?
+[SR_5]
+¿En qué puedo ayudarte?
+[SR_6]
+Hola.
+La entrada al campo de tiro cuesta $50. No olvides dejar tus armas y accesorios en una de las taquillas del vestuario.
+[tut_0]
+¡Hola, John! Soy Steven Coleman y seré tu nuevo instructor.
+[tut_01]
+Si quieres interrumpir nuestras sesiones de entrenamiento, pulsa ESC en cualquier momento. Luego selecciona Salir del juego para marcharte.
+[tut_1a1]
+¿Qué tal si empezamos con algo sencillo, como movernos?
+[tut_1a2]
+Simplemente mueve el cursor del ratón por la pantalla.
+[tut_1a3]
+Como puedes ver, la forma del cursor cambia cuando está sobre una pared o algún otro obstáculo.
+[tut_1a4]
+Si eso ocurre no podrás ir allí. Pero si el cursor muestra cuatro flechas parpadeantes significa que sí puedes moverte.
+[tut_1b1]
+Haz clic con el botón izquierdo del ratón para moverte.
+[tut_1b2]
+Ahora ve y colócate en el círculo amarillo del centro de la sala. 
+[tut_1c1]
+Muy bien.
+[tut_1c2]
+Ahora coloca el cursor del ratón sobre mí.
+[tut_1c3]
+El cursor ahora indica que, aunque es posible realizar una acción, estás demasiado lejos para llevarla a cabo. 
+[tut_1c4]
+Acércate un poco más y observa cómo el cursor cambia a un icono de hablar.
+[tut_1c5]
+Haz un clic con el botón izquierdo del ratón para hablar conmigo. Deberías ver cómo se activa el icono de hablar.
+[tut_1c6]
+Ahora háblame, por favor.
+[tut_1c7]
+Muy bien.
+[tut_1c8]
+>A partir de ahora puedes entrenar todo el tiempo que quieras. 
+[tut_1c9]
+Habla conmigo si quieres repetir una sesión o si estás listo para empezar la siguiente.
+[tut_1c10]
+Ahora dedica un rato a practicar lo que has aprendido.
+[rozmowa]
+¿Qué te gustaría hacer ahora? ¿Repetimos esta sesión (Repetir) o continuamos con la siguiente (Continuar)?
+[powturka]
+Repetir
+[next]
+Continuar
+[tut_1d1]
+Tienes cuatro formas distintas de moverte.
+
+[tut_1d2]
+Puedes elegir cómo quieres moverte haciendo clic en uno de los cuatro iconos que hay sobre tu cara.
+[tut_1d3]
+>De izquierda a derecha son:
+[tut_1d4]
+Sigilo
+[tut_1d5]
+paso cauteloso
+[tut_1d6]
+caminar
+[tut_1d7]
+y correr.
+[tut_1d8]
+Los modos de movimiento se diferencian entre sí por la velocidad a la que te mueves y por la cantidad de ruido que haces al moverte. 
+[tut_1d9]
+Ahora corre un poco usando los distintos modos de movimiento. Observa las diferencias.
+[tut_1e1]
+Ahora voy a enseñarte a moverte de lado y hacia atrás.
+[tut_1e2]
+Es muy sencillo. Mantén pulsado el botón CRTL y luego señala con el ratón el lugar al que quieres moverte.
+[tut_1e3]
+Luego muévete haciendo clic con el botón izquierdo del ratón.
+[tut_1e4]
+Ten en cuenta que la posición del cursor determinará si te mueves de lado o hacia atrás.
+[tut_1e5]
+Ahora practica moverte de lado y hacia atrás.
+
+
+[tut_1f1]
+La siguiente tecla importante es la tecla SHIFT.
+[tut_1f2]
+Pulsar la tecla SHIFT hará que te detengas en seco. 
+[tut_1f3]
+Mantén pulsada la tecla SHIFT y luego mueve el ratón en círculo a tu alrededor. Verás que giras con el cursor del ratón. 
+[tut_1f4]
+Ven a hablar conmigo cuando estés listo para empezar la siguiente sesión.
+
+
+[tut_1g1]
+Ahora voy a enseñarte a superar obstáculos.
+[tut_1g2]
+Ve al potro de gimnasia.
+[tut_1g3]
+Si pasas el ratón sobre el potro, el cursor cambiará de forma a un icono de acción.
+[tut_1g4]
+Si estás demasiado lejos del potro, el icono tendrá una línea cruzada.
+[tut_1g5]
+Puedes saltar sobre el potro si el puntero del ratón tiene forma de flecha doblada.
+[tut_1g6]
+Haz clic con el botón izquierdo del ratón para saltar.
+[tut_1g7]
+Ahora salta sobre el potro un par de veces.
+
+[tut_1h1]
+Ahora que ya sabes lidiar con obstáculos, pasemos al tema de esconderse.
+[tut_1h2]
+Colócate en el círculo amarillo, por favor.
+[tut_1h3]
+Esconderse funciona de forma parecida a superar obstáculos.
+[tut_1h4]
+He creado un escondite improvisado para que practiques.
+[tut_1h5]
+Si haces clic en el borde podrás esconderte debajo de los bancos.
+[tut_1h6]
+Permanecerás en tu escondite hasta que vuelvas a hacer clic en el borde.
+[tut_1h7]
+Ahora practica lo que acabas de aprender, por favor.
+
+[tut_2a1]
+Lo siguiente importante que tienes que aprender es a manejar la cámara.
+[tut_2a2]
+La cámara está vinculada a ti y se moverá contigo en todo momento.
+[tut_2a3]
+Sin embargo, puedes soltar la cámara y usarla para echar un buen vistazo a la zona.
+[tut_2a31]
+Pulsa cualquiera de las teclas de flecha de tu teclado para hacerlo.
+[tut_2a4]
+Ahora puedes mover la cámara libremente por la zona usando las teclas de flecha.
+[tut_2a5]
+También puedes dirigir la cámara con el ratón, moviendo el puntero hasta el borde de la pantalla. 
+[tut_2b1]
+Para que la cámara vuelva a donde estás, haz clic con el ratón en la cara de la parte inferior de la pantalla.
+[tut_2b2]
+Para volver a vincular la cámara a ti, usa el botón derecho del ratón en lugar del izquierdo al hacer clic en la cara.
+[tut_2b3]
+Ahora practica usando la cámara, por favor.
+
+[tut_2c1]
+La cámara no solo se limita a moverse, también puede girar, inclinarse y acercar la imagen.
+[tut_2c2]
+Para girar la cámara mantén pulsado el botón central del ratón o la rueda y mueve el ratón. El botón central del ratón suele ser la rueda.
+[tut_2c3]
+Para acercar o alejar la imagen simplemente haz rodar la rueda del ratón hacia delante o hacia atrás.
+[tut_2c4]
+Ahora practica los nuevos movimientos de cámara que has aprendido: es un equipo muy importante.
+
+[tut_2d1]
+Lo último que necesitas saber sobre la cámara es su bloqueo de inclinación.
+[tut_2d2]
+El bloqueo de inclinación se maneja con el primer icono de cámara a la izquierda de la cara.
+[tut_2d3]
+Primero ajusta la cámara al ángulo que prefieras. Ahora haz clic con el ratón en el icono de cámara para fijarla en su posición.
+[tut_2d4]
+Para soltar el bloqueo de inclinación, haz clic en el icono de cámara otra vez.
+[tut_2d5]
+Ten en cuenta que la cámara aún puede girar y acercar la imagen aunque el bloqueo de inclinación esté activado.
+[tut_2d6]
+Ahora ve y practica todo lo que te he enseñado sobre la cámara, por favor.
+[tut_2d7]
+Ven a hablar conmigo cuando estés listo para empezar la siguiente sesión.
+
+[tut_3a1]
+Sígueme, por favor.
+[tut_3a2]
+A mi izquierda y a mi derecha hay dos puertas que llevan al vestuario.
+[tut_3a3]
+Ahora te enseñaré a abrir puertas.
+[tut_3a4]
+Para abrir la puerta de mi derecha, acércate a la puerta y haz clic en ella con el botón izquierdo del ratón.
+[tut_3a5]
+Ten en cuenta que el puntero cambia a una mano cuando está sobre una puerta.
+[tut_3a6]
+Eso significa que puedes abrirla.
+[tut_3a7]
+La puerta de mi izquierda es diferente.
+[tut_3a8]
+No se puede abrir simplemente haciendo clic en ella.
+[tut_3a9]
+Mira con atención la pared a la derecha de la puerta. Verás un interruptor.
+[tut_3a10]
+Acércate a él y haz clic en el interruptor con el botón izquierdo del ratón. Esto abrirá la puerta.
+[tut_3a11]
+Avísame cuando hayas terminado de practicar cómo abrir puertas.
+
+[tut_3b1]
+Sígueme al vestuario y colócate en el círculo amarillo.
+[tut_3b2]
+Abrir cajas y taquillas funciona igual que abrir puertas o usar interruptores.
+[tut_3b3]
+Sin embargo, esta puerta está cerrada con llave.
+[tut_3b4]
+Vas a tener que usar tus habilidades técnicas para abrirla.
+[tut_3b5]
+Busca el icono de la llave inglesa, que encontrarás a la derecha de los iconos de movimiento.
+[tut_3b6]
+Este icono te permite usar tus habilidades técnicas. Haz clic en el icono con el botón izquierdo del ratón. 
+[tut_3b7]
+Ten en cuenta que el cursor del ratón ahora ha cambiado a una llave inglesa.
+[tut_3b8]
+Ahora vas a ver si puedes forzar la cerradura haciendo clic en la puerta de la taquilla con la llave inglesa.
+[tut_3b9]
+No siempre funciona a la primera. Pero cuanto mayor sea tu habilidad técnica, más fácil te resultará.
+[tut_3b10]
+Ahora abre la taquilla.
+
+
+[tech1]
+Tienes que emplear tus habilidades técnicas para abrir esta taquilla.
+[tech2]
+Parece que no ha funcionado. Inténtalo de nuevo.
+
+[tut_3b11]
+Muy bien.
+[tut_3b11a]
+La taquilla está abierta.
+[tut_3b11b]
+Haz clic en la taquilla con el botón izquierdo del ratón para ver su contenido.
+[tut_3b12]
+Como puedes ver, han aparecido dos ventanas en pantalla.
+[tut_3b13]
+La ventana de la izquierda muestra el contenido de la taquilla.
+[tut_3b14]
+La ventana de la derecha muestra el contenido de tu inventario. Son todos los objetos que llevas contigo.
+[tut_3b15]
+Para sacar algo de la taquilla, haz clic en ello con el botón izquierdo del ratón y muévelo a tu inventario. 
+[tut_3b16]
+Haz clic de nuevo para colocar el objeto en tu inventario.
+[tut_3b17]
+Si haces clic en la zona fuera de cualquiera de las ventanas, el objeto caerá al suelo.
+[tut_3b18]
+Ahora saca todos los objetos de la taquilla y colócalos en tu inventario, por favor.
+[tut_3b19]
+Avísame cuando hayas terminado.
+
+[tut_3c1]
+Haz clic en el icono del inventario en la parte inferior derecha de la pantalla para ver lo que llevas contigo o para ocultar la ventana de nuevo.
+[tut_3c2]
+Ten en cuenta que el color del icono del inventario cambia según cuánto lleves encima.
+[tut_3c3]
+Si está verde o amarillo, todo va bien. 
+[tut_3c4]
+Si el icono del inventario se pone rojo, llevas demasiado peso y tendrás dificultades para moverte.
+[tut_3c5]
+Si el icono del inventario se pone rojo y empieza a parpadear, vas sobrecargado.
+[tut_3c6]
+Eso significa que ya no podrás moverte.
+[tut_3c7]
+Simplemente llevas demasiado peso encima y tendrás que soltar algunos objetos colocándolos en el suelo.
+[tut_3c8]
+La parte superior de la ventana del inventario muestra cuánto llevas actualmente y cuánto más puedes cargar.
+[tut_3c9]
+La descripción de cada objeto informa de cuánto pesa.
+[tut_3c10]
+Coloca el cursor del ratón sobre un objeto de tu inventario y pulsa el botón derecho del ratón para ver la descripción del objeto.
+[tut_3c11]
+Ven a hablar conmigo cuando estés listo para empezar la siguiente sesión.
+
+[tut_3f1]
+Ahora voy a enseñarte a usar algunos de los objetos. 
+[tut_3f2]
+Habrás visto que la taquilla contiene ropa: un abrigo negro de cuero.
+[tut_3f3]
+Para ponerte algo, haz clic y mantén pulsado el botón del ratón sobre la ranura a la izquierda de la brújula.
+[tut_3f4]
+Aparecerá una lista completa del inventario de la ropa disponible. Sin soltar el botón del ratón, mueve el cursor hasta el abrigo.
+[tut_3f5]
+Cuando hayas llegado al abrigo, suelta el botón izquierdo del ratón.
+[tut_3f6]
+¿Sencillo, verdad? Ahora ponte el abrigo.
+
+[tut_3g1]
+También puedes llevar un chaleco antibalas.
+[tut_3g2]
+Se pone exactamente igual que el abrigo, solo tienes que usar la siguiente ranura después de la ranura de camuflaje.
+[tut_3h1]
+A la izquierda verás otra ranura con una cruz roja.
+[tut_3h2]
+Esta ranura es para seleccionar botiquines.
+[tut_3h3]
+Así que si has perdido energía vital durante el combate, elige un botiquín adecuado para recuperarla.
+[tut_3h4]
+Como puedes ver, el funcionamiento de las ranuras es idéntico, pero cada una sirve para un tipo distinto de objeto.
+[tut_3h5]
+Ahora dedica un rato a usar las ranuras, por favor.
+
+[tut_4a1]
+Pasemos a las armas y al combate.
+[tut_4a2]
+Encontrarás una taquilla nueva en el vestuario. Dentro hay algunas armas, munición y unas cuantas pelotas de tenis.
+[tut_4a3]
+Tráelas aquí, por favor.
+[tut_4a4]
+Muy bien.
+[tut_4a5]
+Las armas se eligen igual que la ropa, pero se usa la ranura de armas.
+[tut_4a6]
+Encontrarás la ranura de armas a la izquierda de la cara. Busca el icono del puño.
+[tut_4a7]
+Elige la pistola, por favor. Para ello, mueve el cursor del ratón sobre ella sin soltar el botón del ratón.
+[tut_4a8]
+Ten en cuenta que el orden de las armas en la lista de la ranura de armas depende del orden de las armas en tu inventario.
+[tut_4a9]
+Guarda el arma de nuevo. Para ello, selecciona el puño en la lista de armas.
+[tut_4a10]
+Ahora abre tu inventario y mueve las armas de forma que cambie el orden en la lista de armas.
+[tut_4a11]
+Ven a hablar conmigo cuando estés listo para continuar.
+
+[tut_4c1]
+Antes de enseñarte lo básico sobre disparar, me gustaría mostrarte cómo reparar armas.
+[tut_4c2]
+Puedes ver una barra bajo la ranura del arma. Muestra el estado de reparación del arma.
+[tut_4c3]
+Compara el estado de tus dos armas.
+[tut_4c4]
+Como puedes ver, tu pistola está en mejor estado que tu metralleta. Parece que ha tenido bastante acción.
+[tut_4c5]
+El estado de tu arma determina lo rápido que se sobrecalienta y, lo más importante, lo precisa que es su puntería.
+[tut_4c6]
+Por eso deberías reparar tus armas de vez en cuando.
+[tut_4c7]
+Ahora selecciona la metralleta.
+[tut_4c8]
+Para reparar la metralleta, haz clic en el icono de la llave inglesa con el botón izquierdo del ratón.
+[tut_4c9]
+El cursor del ratón ahora cambiará a una llave inglesa. Luego haz clic con el cursor de llave inglesa en la ranura del arma que contiene la metralleta.
+[tut_4c10]
+Solo puedes reparar un arma que tengas en la mano.
+[tut_4c11]
+Avísame cuando hayas conseguido reparar tu metralleta. Probablemente tendrás que intentarlo un par de veces.
+[tut_4d1]
+Tendrás que cargar tu arma con munición antes de disparar.
+[tut_4d2]
+Busca el icono del cartucho a la derecha de la ranura del arma. Esa es la ranura de munición.
+[tut_4d3]
+Haz clic con el ratón en el cartucho y mantén pulsado el botón para cargar tu arma. Coloca el ratón sobre la pistola y suelta el botón del ratón.
+[tut_4d4]
+Usa la tecla L para recargar rápidamente el arma con el mismo tipo de munición.
+[tut_4d5]
+Carga tu arma y luego colócate en el círculo amarillo cuando estés listo.
+
+[tut_4e1]
+Disparar es muy sencillo.
+[tut_4e2]
+Simplemente apunta al blanco con el ratón y pulsa el botón derecho del ratón.
+[tut_4e3]
+Un clic derecho disparará un solo tiro. Hacer clic y mantener pulsado disparará una ráfaga rápida de tiros.
+[tut_4e4]
+Practica disparando a los blancos.
+[tut_4e5]
+Deja que tu arma se enfríe si se sobrecalienta. Si se encasquilla, recárgala con munición un par de veces. Normalmente eso soluciona el problema.
+[tut_4e6]
+Cuanto más oscuro se vuelva el color del arma en la ranura del arma, más cerca está de sobrecalentarse.
+[tut_4e7]
+Ven a hablar conmigo cuando estés listo para continuar.
+
+[tut_4f1]
+Seguro que has notado que el puntero del ratón cambia a un cursor de apuntado cuando lo mueves sobre el blanco.
+[tut_4f2]
+El cursor de apuntado cambia según tu distancia al blanco. Esto también depende del alcance de tu arma.
+[tut_4f3]
+Cuanto más pequeño se haga el círculo del cursor de apuntado, más probable es que aciertes en el blanco.
+[tut_4f4]
+Una cruz roja en el cursor de apuntado significa que no tienes una línea de visión despejada hacia el blanco....
+[tut_4f5]
+o que está fuera de alcance. Puedes intentarlo de todos modos, pero entonces acertar será cuestión de pura suerte o casualidad.
+[tut_4f6]
+Ven a hablar conmigo cuando estés listo para continuar.
+
+[tut_4g1]
+Hablamos de las distintas formas de moverse, como el sigilo o correr, cuando empezamos estas sesiones.
+[tut_4g2]
+Déjame contarte un par de cosas sobre moverte que influyen en tu capacidad de disparo.
+[tut_4g3]
+A tus oponentes les cuesta acertar a un blanco en movimiento. Así que caminar o correr te protegerá.
+[tut_4g4]
+Tú, en cambio, eres bastante hábil acertando a blancos en movimiento.
+[tut_4g5]
+Si vas en sigilo o con paso cauteloso tendrás tu arma lista y podrás disparar más rápido que caminando o corriendo.
+[tut_4g6]
+Como tienes tu arma lista, también podrás apuntar con más precisión.
+[tut_4g7]
+Ahora apunta a uno de los blancos en modo sigilo o paso cauteloso.
+[tut_4g8]
+Verás aparecer una pequeña barra de precisión de apuntado en cuanto el cursor de apuntado se coloque sobre el blanco.
+[tut_4g9]
+Esta barra se llenará cuanto más tiempo mantengas el cursor de apuntado sobre el blanco. Esto indica una precisión creciente.
+[tut_4g10]
+Cuanto mejor se te dé manejar un arma, más eficaz serás acertando a tus blancos durante el juego.
+[tut_4g11]
+En cuanto hayas disparado un tiro, la barra de apuntado volverá a cero.
+[tut_4g12]
+Apuntar con precisión solo tiene sentido cuando se trata de tiros individuales.
+[tut_4g13]
+Ahora practica apuntar, en particular apuntar con precisión, por favor.
+
+[tut_4h1]
+Solo queda una última cosa que tienes que aprender sobre disparar. Y es disparar desde detrás de una cobertura.
+[tut_4h2]
+Ve y colócate en el círculo amarillo detrás de esa caja, por favor.
+[tut_4h3]
+Ahora escucha. Para disparar desde detrás de esta cobertura, mantén pulsada la tecla shift.
+[tut_4h4]
+Apunta a uno de los blancos con tu cursor.
+[tut_4h5]
+El cursor, por supuesto, cambiará automáticamente al cursor de punto de mira rojo. No dejes que eso te distraiga y haz clic en el botón derecho del ratón para disparar.
+[tut_4h6]
+Saldrás de detrás de la cobertura, dispararás y volverás automáticamente.
+[tut_4h7]
+No siempre funciona, pero la experiencia te dirá a qué distancia de la esquina tienes que estar.
+[tut_4h8]
+Esta maniobra puede parecer complicada al principio, pero te recomiendo dominarla. ¡Hará que combatir sea mucho más fácil!
+[tut_4h9]
+Ahora ponte a practicar en serio disparar desde detrás de una cobertura. Créeme, me agradecerás haberte hecho hacer esto.
+[tut_4i1]
+Probablemente has encontrado las pelotas de tenis en la taquilla.
+[tut_4i2]
+Usamos pelotas de tenis para simular lanzar granadas o piedras.
+[tut_4i3]
+Una granada es un arma potente, pero peligrosa y difícil de dominar.
+[tut_4i4]
+Para lanzar una granada, primero selecciónala en la ranura a la izquierda de la cara.
+[tut_4i5]
+Ten en cuenta que tu arma se desactiva cuando has cogido la grana... la pelota de tenis y la tienes en la mano.
+[tut_4i6]
+El cursor del ratón cambiará en cuanto la hayas seleccionado y la tengas en la mano. Entonces podrás señalar adónde quieres lanzarla.
+[tut_4i7]
+Simplemente haz clic en la imagen de la ranura del arma para volver a coger tu arma.
+[tut_4i8]
+Ahora practica lanzando. Ten en cuenta que una granada también rebotará en paredes y objetos...
+[tut_4i9]
+Intenta lanzar todas las pelotas de tenis al círculo blanco del centro del gimnasio.
+[tut_4j1]
+Sígueme.
+[tut_4j2]
+Este es Joe.
+[tut_4j3]
+Joe nos va a ayudar con la siguiente parte de esta sesión.
+[tut_4j4]
+Joe y yo vamos a enseñarte a llevar un cuerpo.
+[tut_4j5]
+Para levantar a Joe, mueve el cursor del ratón sobre él y mantén pulsado el botón CTRL.
+[tut_4j6]
+El cursor cambiará y te mostrará una pequeña secuencia animada. Haz clic en Joe con el ratón para levantarlo.
+[tut_4j7]
+Así que ahora levanta a Joe.
+[tut_4j8]
+Muy bien.
+[tut_4j9]
+Vamos. Lleva a Joe lejos y tíralo en algún sitio.
+[tut_4j10]
+Ten en cuenta que has guardado tu arma. Tu ranura de arma ahora indica que llevas un cuerpo.
+[tut_4j11]
+Elige un arma o selecciona el puño en la ranura del arma para dejar a Joe en el suelo.
+[tut_4j12]
+Ahora lleva a Joe al círculo amarillo que he dibujado en el suelo con tiza otra vez.
+[tut_4j13]
+Muy bien.
+[tut_4j14]
+Mira la caja que acaba de aparecer allí.
+[tut_4j15]
+Quiero que escondas a Joe en esta caja cuando hayas practicado bastante levantándolo y dejándolo otra vez.
+[tut_4j16]
+Para ello, lleva a Joe cerca de la caja y haz clic en ella con el botón izquierdo del ratón.
+[tut_4j17]
+Avísame cuando podamos empezar la última parte de este tutorial.
+
+[tut_5a1]
+Por último me gustaría darte algunos consejos y trucos útiles.
+[tut_5a2]
+Mira las barras a la derecha de la cara. Encuentra la segunda empezando por abajo.
+[tut_5a3]
+Indica lo bien que pueden verte tus enemigos.
+[tut_5a4]
+Cuanto más clara esté o más cerca estés de fuentes de luz, más visible serás para tus enemigos.
+[tut_5a5]
+Una buena solución es disparar a las lámparas o, si es posible, eliminar el suministro eléctrico.
+[tut_5a6]
+Avísame cuando estés listo para que continúe.
+
+[tut_5b1]
+Con el tiempo notarás que los enemigos te dispararán aunque estés escondido, quizá detrás de una caja.
+[tut_5b2]
+Esto puede significar que el objeto no es lo bastante grande para que estés completamente escondido detrás de él.
+[tut_5b3]
+Si es así, cambia al modo sigilo.
+[tut_5b4]
+Ir en sigilo significa que estás agachado y esa diferencia puede ser decisiva.
+[tut_5b5]
+Avísame cuando estés listo para continuar.
+
+[tut_5c1]
+Otro factor realmente importante es cuánto ruido haces.
+[tut_5c2]
+Cada uno de los cuatro modos de movimiento tiene un nivel de ruido distinto.
+[tut_5c3]
+Busca la barra del extremo inferior derecho de la cara.
+[tut_5c4]
+Indica la cantidad de ruido que estás haciendo.
+[tut_5c5]
+Disparar, por supuesto, produce la mayor cantidad de ruido. Pero cada arma tiene su propio nivel de ruido.
+[tut_5c6]
+A veces puedes usar un silenciador para reducir mucho el nivel de ruido de un arma.
+[tut_5c7]
+La otra alternativa es elegir la opción casi silenciosa del combate cuerpo a cuerpo con puños o cuchillos.
+[tut_5c8]
+Recuerda que tus enemigos también pueden hacer ruido.
+[tut_5c9]
+Si un enemigo empieza a dispararte, otro puede oírlo y venir en su ayuda.
+[tut_5c10]
+Así que vigila esta barra durante las distintas actividades para hacerte una idea de cuánto ruido estás haciendo.
+[tut_5d1]
+Lo último que tengo que decirte es cómo comprobar lo que tu enemigo puede ver.
+[tut_5d2]
+Para ello debes usar el icono de cabeza con un rango de visión.
+[tut_5d3]
+Lo encontrarás a la izquierda de los iconos de movimiento.
+[tut_5d4]
+Haz clic en el icono de rango de visión con el botón izquierdo del ratón y luego señala a tu enemigo con el cursor del ratón.
+[tut_5d5]
+Haz clic en el icono de rango de visión otra vez con el botón izquierdo del ratón para apagar el rango de visión de los enemigos.
+[tut_5d6]
+Ahora dedica un rato a practicar todo lo que te he enseñado. Necesitarás todas estas habilidades para completar tus misiones.
+[tut_5d7]
+Cuando hayas dominado estas sesiones de entrenamiento, pulsa la tecla ESC para volver al menú principal y jugar. ¡Diviértete!

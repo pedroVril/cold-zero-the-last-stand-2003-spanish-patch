@@ -1,0 +1,42 @@
+[main]
+NumOfMaps=1
+//no comments..
+
+[map_1]
+Texture = LEV_TUTORIAL
+//w katalogu textures/levelmaps
+
+SSstart = 0,0
+SSsize = 256,256
+//mapowanie tekstury
+
+RealSize = 172,174
+//RAZEM z ramka
+
+Scale = 1.294
+//wielkosc obszaru aktywngo mapy/wielkosc levelu
+		
+BorderSize = 0,0
+//grubosc ramki, taka sama z gory jak i z dolu, z prawej = z lewej
+
+
+OffsetX = -16.968
+OffsetY = 5.909
+//w ktorym punkcie swiata zaczyna sie ta mapa(lewy-dolny rog)
+
+
+
+[map_2]
+Texture = LEV_CAMPSITE_L
+
+SSstart = 0,0
+SSsize = 256,256
+
+RealSize = 255,256
+
+Scale = 3.66
+		
+BorderSize = 8,8
+
+OffsetX = 5.739
+OffsetY = 176.04

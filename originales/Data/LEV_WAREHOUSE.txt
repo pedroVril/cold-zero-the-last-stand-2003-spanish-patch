@@ -1,0 +1,106 @@
+[guard1]
+Come here!
+[guard1.2]
+Come back here, you stupid beast!
+[guard2]
+Must have been a cat...
+[guard3]
+Hey Mike! Come and get a load of this!
+[guard4]
+Look at her! Man, is she ever stacked!
+[guard4.1]
+What he's doing isn't possible...
+[guard3.1]
+Hey Mike! Your wife is a stripper, isn't she?
+[gurd4.2] 
+She's an accountant!
+[guard3.2]
+Hey Mike? Didn't I loan you ten bucks yesterday?
+[guard4.3]
+No, you didn't. Now shut up.
+[guard3.3]
+Hey Mike! We have the day off tomorrow, don't we?
+[guard4.4]
+That would make sense since we're working tonight...
+[guard3.4]
+Hey Mike!
+[guard4.5]
+Shut up at last, would you!
+[au]
+Damn! They're live!
+[sw]
+Power's off. Now I can climb over the cables.
+[sw2]
+Power's on again...
+[hw]
+Do I have a tattoo on my back? Trying to finish me off?
+[hw2]
+High voltage...
+[beczki]
+If I knock those over that'll make a hell of a noise...and lure a guard outside...
+[beczki_b]
+Knock them over.
+[beczki_a]
+No.
+[what]
+What the...?!?!
+[cat1]
+Is anybody there?
+[cat2]
+Meeooww!
+[cat3]
+It's just a cat...
+[alarm1]
+Halt!
+[alarm2]
+Halt or I'll shoot!
+[key1]
+That can't be opened without a key.
+[inter]
+Everything okay up there?
+[inter1]
+Yeah, everything's all right.
+[coffe1]
+I should find something to put in his coffee. Something to move him...
+[coffe2]
+Hmm, nobody's probably ever tested that stuff with coffee...
+[siatka]
+Hey! We have a problem. Somebody's gotten in here!
+[inter00]
+I'm going to the men's room, so don't page me.
+[stomach]
+Oh, my stomach...
+[yes]
+Yes
+[no]
+No
+[ok]
+Ok
+[no_docs]
+I haven't found the freight documents yet.
+[TECH_COL_SECURED]
+Let's see if I'm technically talented enough...
+[TECH_COL_INIT]
+Let's try it...
+[TECH_COL_START]
+Let's try it...
+[TECH_COL_SUCCES]
+Got it!
+[TECH_COL_FAIL]
+That didn't work.
+[TECH_COL_INIT_FAILED]
+That's just too difficult.
+[COUNT_START]
+Looks like the boys from security are arriving. I should probably stay out of their way...
+[COUNT_0]
+They're there...
+[dzwi1]
+Locked.
+[dzwi4]
+Open.
+[dzwi5]
+That was useless.
+[dzwi7]
+I won't be able to do it.
+[sejf_NO_KEY]
+I won't get very far without a key...

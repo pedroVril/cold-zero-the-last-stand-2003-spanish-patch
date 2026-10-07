@@ -1,0 +1,62 @@
+[G1]
+Be careful! He's dangerous - with guns, with knives and with bare hands. When you see him, shoot immediately. Comprender?
+
+[G2]
+Si comandante.
+
+[MC1]
+Something's not right here. My inner voice tells me I should beat it quick.
+
+[JOHN1]
+John
+
+"Jane? I know what was so odd about this place. It is completly deserted, for a decade at least. It is a trap.
+Jane
+
+"Be cearfull John."
+
+[PROCEED]
+PROCEED
+
+[G3]
+He must be hiding somewhere in the vicinity of the bank. Vamos!
+
+[LG_JOHN_1]
+Visit beautiful Mexico, land of the sun. Now there's fun for you! Jane, you were right. This whole thing stinks to high heaven. This hole is deserted, there's not a soul here.
+[LG_JANE_1]
+Come back. I'll keep searching, maybe I'll find a clue on Shark's laptop.
+[LG_JOHN_2]
+No, I want to take a look around as long as I'm here...
+[LG_JANE_2]
+Why do you always have to be so stubborn and take unnecessary risks?
+[LG_JOHN_3]
+Yes, I'll be careful...I told you, the place is deserted.
+
+[LG_JOHN_4]
+You were right as usual, it wasn't a good idea to come down here. It was a trap. They were waiting for me.
+[LG_JANE_3]
+You think Martinez knew that we'd find Shark?
+[LG_JOHN_5]
+That's exactly what I think. He knows perfectly well that we're after him.
+[LG_JANE_4]
+Then I wonder if Martinez also knows that we found Ramuel.
+[LG_JOHN_6]
+Who?
+[LG_JANE_5]
+I searched all the data on the laptop and found several coded files. They were databases with addresses, dealers, deliveries, etc.
+[LG_JANE_6]
+And there I found the name Ramuel and followed that track.
+[LG_JANE_7]
+Ramuel is Martinez' right hand. He takes care of "routine business" and reports weekly to his boss on location.
+[LG_JANE_8]
+That's a fact. He certainly knows where Martinez is.
+[LG_JOHN_7]
+And where is this Ramuel?
+[LG_JANE_9]
+In Antira, roughly 80 miles southwest of El Coro.
+[LG_JOHN_8]
+Please send me directions, I'll get on the road.
+
+
+
+

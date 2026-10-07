@@ -1,0 +1,64 @@
+[sol4]
+He's coming!
+[sol1]
+Aim towards the bushes there!
+[sol2]
+Fire!
+[sol3]
+Mierda!
+[gen]
+Find that American and eliminate him!
+[gen1]
+Find that bastard!
+[gen2]
+Don't let him reach the hacienda in any case!
+[mart1]
+That does it!
+[mart2]
+Do I have to get rid of every stupid Yanqui myself?
+[mart3]
+Mierda!
+[mart4]
+Kill him!
+[rambo]
+I'll have his head!
+[rambo1]
+I'm the greatest! With a gun, with a knife, with my bare hands.
+[rambo2]
+That will result in a bloodbath.
+[sniper]
+"He won't even know what, where or how..."
+[mc1]
+I can't get in.
+[mc2]
+That appears to be a ventilation shaft. That could work...
+[HL_JOHN_1]
+I've found something really interesting...
+[HL_JANE_1]
+Where are you? Why didn't you call?
+[HL_JOHN_2]
+I'm in Martinez' house...I've found a lot of notes.
+[HL_JOHN_3]
+All the remaining components of Cold Zero are here in his laboratory. Production is due to begin shortly, so we've gotten here in time.
+[HL_JANE_2]
+You have to find the components and destroy them.
+[HL_JANE_3]
+The best thing would be to blow up the entire laboratory, that way we'll be sure that we've destroyed everything that has to do with Cold Zero.
+[JOHN_LAB_3]
+Jane, I found a control room. There's a switch here labeled "Pirosene". What's that?
+[JANE_LAB_1]
+It's a highly poisonous gas. It's used, for example, in self-destruction systems.
+[JANE_LAB_2]
+Looks as if Martinez thought he could destroy all evidence of his activities if need be. Let's use it to destroy Cold Zero.
+[JANE_LAB_3]
+John, be careful. They'll have protective clothing there. It will protect you for a little while, but then the gas will take full effect!
+
+
+[skill_use]
+I could see if I'm technically clever enough...
+[tech1]
+Nuts, that wasn't so hot.
+[tech2]
+Hurrah!
+[tech3]
+Guess I'm too clumsy for that.

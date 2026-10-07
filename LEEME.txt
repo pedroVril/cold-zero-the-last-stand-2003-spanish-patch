@@ -1,0 +1,30 @@
+COLD ZERO - PARCHE DE TRADUCCION INGLES A ESPANOL
+Version del juego: 1.02 UK
+Creado por Pedro Yanez - github: pedroVril
+
+INSTALACION RAPIDA
+
+1. CREA UN RESPALDO
+   Copia las carpetas "Settings" y "Data" del juego a un lugar seguro.
+   Estan en algo como: C:\Program Files (x86)\JoWooD\ColdZero\
+   Sin este respaldo no podras volver al ingles.
+
+2. COPIA Y PEGA
+   Copia TODO el contenido de esta carpeta (Settings y Data)
+   dentro de la carpeta del juego.
+
+3. REEMPLAZA
+   Cuando Windows pregunte, elige reemplazar los archivos.
+   (Pide permiso de administrador, es normal.)
+
+4. JUEGA
+   Inicia ColdZero: menus, tutorial y misiones en espanol.
+
+PARA VOLVER AL INGLES
+   Restaura tu respaldo del paso 1 sobre la carpeta del juego.
+
+NOTAS
+- Las voces quedan en ingles (son audio, no texto).
+- Las letras ñ ¡ ¿ se muestran como n ! ? (las fuentes del
+  juego no traen esos simbolos).
+- Si algun texto se ve mal, puedes intentar contactarme y ver juntos como solucionarlo.

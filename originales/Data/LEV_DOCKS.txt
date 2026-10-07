@@ -1,0 +1,602 @@
+[yes]
+Yes
+[no]
+No
+[gunshop]
+What can I do for you?
+[gunshop2_1]
+I heard you have a few nice things from your collection to sell.
+[gunshop2_2]
+Let me show you what I've got at the moment.
+[gunshop2_3]
+Ah, it's you. It's good of you to visit so often.
+[gunshop2_4]
+Let me show you my current range of goods. There are a few special items.
+[mez1]
+I'm in a hurry!
+[mez2]
+I don't know you. 
+[mez4]
+I don't know what time it is, I don't want to know what you're selling. No, I can't, I don't care what it's about.
+[kob1]
+I don't know you! Why should I?
+[kob2]
+Leave me alone or I'll scream!
+[kob3]
+Hey, baby!
+[no_end]
+And where do you want me to go?
+
+
+[LVL0_JANE_1]
+So how do you like our new office?
+[LVL0_JOHN_1]
+Hmmm. Is life always this tough?
+[LVL0_JANE_2]
+It always will be. With our finances we can't afford anything else.
+[LVL0_JANE_3]
+At least you've got a gun shop close by.
+[LVL0_JOHN_2]
+Well, I'm just looking around - I haven't been here in ages. Eddie's bar should be somewhere near here. 
+[LVL0_JANE_6]
+You do that. Oh, by the way, I paid some of the bills today; there's not much left over.
+[LVL0_JANE_7]
+I wasn't able to buy the ammunition, I just didn't get around to it.
+[LVL0_JOHN_3]
+No problem. After all, you're not getting any younger. Don't worry about it, I'll take care of it.
+
+[LVL0_JANE_8]
+I haven't gotten that far yet, John, I still need to research a couple of things.
+[LVL0_JANE_9]
+I need a little more time. Did you buy the ammunition?
+
+[LVL0_JANE_10]
+It's good you're here, I was just going to call you.
+[LVL0_JANE_11]
+I've talked to the bank - Bredock has transferred the money for shadowing his wife. But that's still not enough to make our loan payment.
+[LVL0_JANE_12]
+However, the good news is that I've already managed to get us a new assignment.
+[LVL0_JANE_13]
+You'll like it, I was just browsing the Merc mailing list.
+[LVL0_JANE_14]
+Somebody's going to be picked up tonight at the fish dock at the harbor, and we're supposed to liberate him. 
+[LVL0_JANE_15]
+I've got all the important information. Or at least as much as possible with such short notice.
+[LVL0_JANE_16]
+This old place is used by smugglers and other disreputable characters. It will definitely be more difficult than your usual...exciting tailing jobs.
+[LVL0_JANE_17]
+I've already sent the ground plan and the more important data to your PDA. Take my car. Good luck!
+
+
+[LVL0_JANE_AB]
+John, what are you doing here still? You have to free the poor man before it's too late. I told you there's very little time!
+
+[LVL1_JANE_1]
+John!
+[LVL1_DON_1]
+Please come in, Mr. McAffrey, we've been waiting for you. We organized this meeting at your request...
+[LVL1_JOHN_1]
+I don't remember complaining about the food at the Italian place any time recently.
+[LVL1_DON_2]
+Alberto! You should know, Mr. McAffrey, that I don't like your kind of humor.
+[LVL1_DON_3]
+Your "liberation measures" didn't exactly make me laugh, either. The drug dealer you insisted on liberating is an extremely dangerous man.
+[LVL1_DON_4]
+You must understand, Mr. McAffrey: this man needed a lesson. I wanted to make an example of him.
+[LVL1_DON_5]
+Go ahead and call me conservative or old-fashioned, but drug dealers have no business being in my city.
+[LVL1_JOHN_2]
+I see...Jane, we work too hard.
+[LVL1_DON_6]
+You will certainly understand that I cannot simply accept your intervention.
+[LVL1_DON_7]
+But I will be the first to admit that you rose to the challenge most impressively. It would be a pity to lose someone as good as you. 
+[LVL1_DON_8]
+Therefore I would like you to do the odd job or two for me. Then I might just forget the incident at the harbor.
+[LVL1_JOHN_3]
+Well, I...
+[LVL1_JANE_2]
+John, I don't think we really have a choice.
+[LVL1_DON_9]
+I'm not a thief, Mr. McAffrey. I am well aware of your financial situation.
+[LVL1_DON_10]
+You'll be paid for each mission based on your performance. And I am known to be rather generous.
+[LVL1_ALB_1]
+Don...
+[LVL1_DON_11]
+Thank you, Alberto, I know. My time is unfortunately limited.
+[LVL1_DON_12]
+As your pretty colleague has already so fittingly noted, you don't really have any choice. Do as I say!
+[LVL1_DON_13]
+I've already spoken to her. She will explain your next mission to you.
+[LVL1_DON_14]
+I must go now. I hope to see you again soon.
+
+[LVL1_JANE_3]
+Well, this assignment has a serious catch to it. 
+[LVL1_JANE_4]
+But I've heard that the Don is really quite generous. Maybe this will solve our financial problems for us?
+[LVL1_JOHN_4]
+Working for the mafia has never solved any problems - on the contrary. But what else can we do? What mission is he talking about, anyway?
+[LVL1_JANE_5]
+The Don said you were to get hold of some photos.
+[LVL1_JANE_6]
+That paparazzo took them. The same guy who photographed the mayor with that girl a while back.
+[LVL1_JANE_7]
+He..um...died...in an accident yesterday. The Don wants several of the photos at any price. He's apparently hidden them in his trailer out of town.
+[LVL1_JOHN_5]
+Hmm. So why doesn't he send one of his thugs?
+[LVL1_JANE_8]
+He doesn't want anyone to suspect he's involved. Using his own people would be too conspicuous.
+[LVL1_JANE_9]
+I'm sure there will be other "interested parties" there. I've already sent a map of the area to your PDA - all the important details are marked on it.
+[LVL1_JANE_10]
+I'll drive you there and we'll be back in no time. It's child's play.
+
+[LVL1_JANE_AB]
+Still here?  Off to battle with you!
+
+[LVL2_JANE_1]
+I'm still trying to figure out where I know this fellow in the picture from. 
+[LVL2_JANE_2]
+He's not a celebrity, in any case...
+[LVL2_JANE_3]
+But I had a long conversation with the Don...
+[LVL2_JOHN_1]
+And...?
+[LVL2_JANE_4]
+He's already given us our next mission. We're supposed to free 3 people at the harbor.
+[LVL2_JANE_5]
+You remember the gang called the Reggs? Apparently they've really gone on a rampage this time...
+[LVL2_JANE_6]
+And the cops haven't set foot in the area for a long time.
+[LVL2_JANE_7]
+While you're underway I'll sketch in their possible whereabouts and send them to you.
+[LVL2_JANE_8]
+You need to leave now. Time is of the essence.
+[LVL2_JANE_9]
+John, get going! They won't be there forever! Besides, we can't afford to disappoint the Don!
+
+[LVL2_JANE_AB]
+I thought you understood our mission! The data is on the PDA!
+
+[LVL3_JANE_1]
+That was a war out there! I simply can't imagine why the police never show up there.
+[LVL3_JOHN_1]
+But then, who would have called them?
+[LVL3_JANE_2]
+You're probably right. But listen, Eddie called. He wants you to drop by.
+[LVL3_JANE_3]
+I'll take care of the paperwork in the meantime. The money from the Don should be here any time now.
+
+[LVL3_ALB_1]
+The Don is expecting you!
+[LVL3_DON_1]
+John! I must say you do excellent work.
+[LVL3_DON_2]
+As a taxpayer I am very impressed with the investment the government made in your education and training.
+[LVL3_JOHN_2]
+Jane mentioned...
+[LVL3_DON_3]
+Yes, I have an assignment that could be extremely lucrative for both of us. Furthermore, I would be prepared to forget the affair at the harbor once and for all after this favor, if you know what I mean.
+[LVL3_DON_4]
+I want you to fly to Dikowsk. That's a small town in Russia. There's a warehouse near there, from which we need something.
+[LVL3_JOHN_3]
+Weapons, drugs...
+[LVL3_DON_5]
+Nothing of the sort. I want nothing to do with drugs. I've already told you that.
+[LVL3_DON_6]
+It's an old statue which was stolen recently, and it needs to be smuggled out of the country.
+[LVL3_DON_7]
+We'll simply take over the "goods", being as they are ready for shipping.
+[LVL3_DON_8]
+Everything's already been organized. Your flight is booked. Our man will pick you up there and take you to the vicinity of the warehouse.
+[LVL3_DON_9]
+The area's protected, so that you'll have to take a little walk.
+[LVL3_JOHN_4]
+And how's my equipment going to get there?
+[LVL3_DON_10]
+We have experience in such things. Take everything you need and give it to my contact at the airport.
+[LVL3_DON_11]
+We'll forward it through our channels and drop it in the target area.
+[LVL3_DON_12]
+Our man on location will pick up your things and give them to you when you both arrive.
+[LVL3_DON_13]
+You don't have much time. Your flight leaves in two hours. I'll transmit all the details to your pretty colleague.
+
+[LVL3_JANE_4]
+I've received the mission data. It's a prohibited zone, John.
+[LVL3_JANE_5]
+It won't be easy, I'm not getting much information at all about it.
+[LVL3_JOHN_5]
+I don't like this...
+[LVL3_JANE_6]
+No, it's all very suspicious...
+[LVL3_JANE_7]
+It appears to involve the "Madonna of Skorsky", by the way.
+[LVL3_JANE_8]
+An extremely valuable statue from the collection of Nicholas II, the czar of Russia.
+[LVL3_JOHN_6]
+Art thieves...if my mother knew about this...
+[LVL3_JANE_9]
+Yes, you've come a long way...at least our debts are paid off.
+[LVL3_JANE_10]
+Perhaps it will be a small consolation to know that the statue has already been stolen - we're merely stealing it back from the thieves.
+[LVL3_JOHN_7]
+I know that. Women's morals are very strange...
+[LVL3_JANE_11]
+Get your equipment together. Let me know as soon as you're ready. I'll take you to the airport.
+
+[LVL3_JANE_12]
+Okay, let's go. Your plane's leaving soon!
+[LVL3_JOHN_8]
+I love these weird quiet moments before the storm...
+
+[LVL3_JANE_AB]
+If you wait much longer we can forget the mission.
+
+[LVL4_JANE_1]
+You won't believe it. The Don's paid us enough to settle all our debts.
+[LVL4_JANE_2]
+The people at the bank were amazed. There was even some money left over.
+[LVL4_JOHN_1]
+Good. We could use some new equipment...
+[LVL4_JANE_3]
+Then take as much money as you need. I bet you can't wait to hit the gun shop.
+[LVL4_JANE_4]
+And go see Eddie on your way, he called and wants to talk to you.
+
+[LVL4_EDDIE_1]
+It's been a long time, John. How's it going?
+[LVL4_JOHN_2]
+I'm slowly getting back on my feet. What's up, Eddie?
+[LVL4_EDDIE_2]
+A guy was here this morning and wanted to sell me a really stylish piece.
+[LVL4_EDDIE_3]
+I don't need one, but I immediately thought of you. Seems to have the type of stuff you can't get in the shops.
+[LVL4_JOHN_3]
+Sounds promising...
+
+[LVL4_EDDIE_5]
+Yeah, so I told him about you and he said he's frequently at the shooting range.
+[LVL4_EDDIE_6]
+You should drop by and see him. Maybe he has something interesting for you.
+[LVL4_JOHN_5]
+Yeah, we'll see. Thanks for the tip.
+
+
+[LX_EDDIE_1]
+A beer?
+[LX_JOHN_1]
+No thanks, maybe some other time.
+
+[LX_EDDIE_2]
+John, you're getting more like your father as time goes on.
+[LX_JOHN_2]
+I know, I shouldn't drink so much.
+
+[LX_EDDIE_3]
+By the way, Jane is...
+[LX_JOHN_3]
+Forget it. She's taken.
+
+[GS2_1]
+Let me guess: you're Eddie's friend, right?
+[LVL4_JOHN_6]
+How do you figure that?
+[GS2_2]
+Bull's eye! I know a lot about people.
+[LVL4_JOHN_7]
+That's practical. I know a lot about weapons...
+[GS2_3]
+I see we'll get along just fine. From time to time I have a few extremely interesting pieces from very special sources on offer.
+[GS2_4]
+Let me show you what I've got at the moment.
+[GS2_5]
+Perhaps I can interest you in something...
+[GS2_6]
+Let me show you a few interesting articles.
+[GS2_7]
+Let me show you a few weapons.
+
+[GS2_8]
+Yeah?
+[GSJOHN_1]
+I thought you might have something for me.
+[GS2_9]
+You never know...what is it you're looking for?
+[GS_JOHN_2]
+How about weapons?
+[GS2_10]
+An excellent choice, my good man. Your instinct is correct. I'll show you what I have here.
+
+
+[LVL4_JOHN_8]
+What a surprise...
+[LVL4_DON_1]
+We've got serious problems, John. The statue wasn't genuine...
+[LVL4_JOHN_9]
+And the buyer is angry...
+[LVL4_DON_2]
+The buyer is the one we have to get.
+[LVL4_DON_3]
+The statue was a fake and was used only to smuggle a new synthetic drug.
+[LVL4_JANE_5]
+A synthetic drug?
+[LVL4_DON_4]
+It's a brand new drug called Cold Zero.
+[LVL4_DON_5]
+Using it even for a very short time is fatal, and it causes people to go insane before they die.
+[LVL4_DON_6]
+The government is already hot on the trail, the drug must be prevented from reaching the market at all costs.
+[LVL4_DON_7]
+The package in the statue was unique, because the inventor took the formula with him to the grave.
+[LVL4_DON_8]
+Now the stuff is supposed to be analyzed so it can be produced on a large scale.
+[LVL4_DON_9]
+We have to prevent that - sooner or later they'll connect it with us.
+[LVL4_JANE_6]
+I understand.
+[LVL4_JOHN_10]
+Any clues?
+[LVL4_DON_11]
+No, my people have their ears to the ground, but...just a moment, please...
+[LVL4_DON_12]
+...interesting...
+
+[LVL4_DON_13]
+Yes...
+[LVL4_DON_14]
+Is that a sure thing?
+[LVL4_DON_15]
+Good...
+[LVL4_DON_16]
+How much time do we have left?
+[LVL4_DON_17]
+...good...
+[LVL4_DON_18]
+Yes...
+[LVL4_DON_19]
+The man you liberated at the harbor is involved in this Cold Zero affair.
+[LVL4_DON_20]
+He's claimed some of it for himself and tried out the stuff with his "friends".
+[LVL4_DON_21]
+They've literally - how do you say it - flipped out and want to blow up half of Chinatown.
+[LVL4_JOHN_11]
+Sounds like really hot stuff...
+[LVL4_DON_22]
+The police will be there any minute. Come with me, Alberto will take you there.
+[LVL4_DON_23]
+See if you can find him before the police intervene.
+
+[LVL4_JANE_AB]
+Well get going, John! Time is pressing!
+
+[LVL5_JANE_1]
+I know you've earned a rest, John, but I've got new information.
+[LVL5_JOHN_1]
+Information?
+[LVL5_JANE_2]
+The buyer of the statue is still unknown. But the Don has information about the shipping agency used to mail our package.
+[LVL5_JOHN_2]
+Well, at least there's a clue...
+[LVL5_JANE_3]
+Yes, now we only have to find out where Shipment 274-EF1 was sent. That should be in the freight documents.
+[LVL5_JANE_4]
+You could take a look around there at night.
+[LVL5_JOHN_3]
+At night? Can't we somehow persuade them just to give us this information? What happened to your womanly charm?
+[LVL5_JANE_5]
+John, I've already been there. Not a chance. But I've checked out the premises thoroughly and spoken with the workers. 
+[LVL5_JANE_6]
+And at night there are a couple of old guards there. The safe is somewhere in the offices on the second floor of the first warehouse.
+[LVL5_JOHN_4]
+Great...then I'll just take a little walk this evening. Send me all the data...
+
+[LVL5_JOHN_5]
+It's still too light for a night visit. It only takes fifteen minutes to get to the shipping agency.
+
+[LVL5_JANE_AB]
+You won't be very happy if you don't start soon.
+
+[LVL6_JANE_1]
+I'll be getting new information from the Don shortly. My own research should be producing results soon, too.
+[LVL6_JANE_2]
+Use the time to get ready for your next operation. I have a sneaky feeling you'll be gone a while this time.
+[LVL6_JOHN_1]
+Let's see what kind of new weapons there are...
+
+[LVL6_JANE_3]
+Are you sitting down? The next clue and the information from the freight documents take us to the Middle East. 
+[LVL6_JANE_4]
+There's nobody at the address given. But...several satellite photos from my former employer turned up a few interesting details.
+[LVL6_JOHN_2]
+Come on, Jane, don't keep me in suspense...
+[LVL6_JANE_5]
+It's some sort of military base. Or rather a paramilitary training camp or something like that.
+[LVL6_JANE_6]
+In any case you have to go and take a look around.
+[LVL6_JOHN_3]
+Somehow that doesn't sound like vacation...
+[LVL6_JANE_7]
+No, not really. The photos show a small bunker that emits a lot of heat.
+[LVL6_JANE_8]
+It could be a shaft leading to something underground. Maybe the drugs are manufactured there...
+[LVL6_JANE_9]
+In any case you'll have to be extremely careful.
+[LVL6_JANE_10]
+The Don is already making all the necessary arrangements. Somebody will smuggle you into the base. You'll probably be hidden in a truck or a container.
+[LVL6_JANE_11]
+We'll have to figure out how you're going to get back out while you're on the mission. At the moment we simply don't have enough information about the target.
+[LVL6_JANE_12]
+I've already booked you a flight. As usual, time is short. We need to leave soon. I'll take you to the airport.
+
+[LVL6_JANE_13]
+Do you have everything you need? Take it with you. Give it to me on the way. I'll take it to the Don so he can get it to the target on time.
+[LVL6_JOHN_GO]
+Okay, let's disappear.
+
+[LVL6_JOHN_WAIT]
+Wait, I forgot something.
+
+[LVL6_JANE_x1]
+John, I need a little more time.
+[LVL6_JANE_x2]
+John, I'm not ready yet.
+[LVL6_JANE_x3]
+There's no news yet, John, we'll just have to wait a little longer.
+[LVL6_JANE_x4]
+John, I'm working on it.
+
+[LVL6_JANE_AB]
+I like you, too, John - but you should leave now.
+
+
+[LVL7_JANE_1]
+I've analyzed the information you found and talked to the Don as well. 
+[LVL7_JANE_2]
+He knows who Hector Martinez is. The guy is a big fish in drug trafficking.
+[LVL7_JOHN_1]
+This is getting better and better...
+[LVL7_JANE_3]
+Wait, there's even more to it...According to my research, Martinez operates exclusively from Guatemala, rarely travels abroad and nobody knows exactly where to find him.
+[LVL7_JANE_4]
+Thanks to the support of the local military, the man is well covered.
+[LVL7_JOHN_2]
+Yeah, why should anything ever be simple? How does he sell his goods here then?
+[LVL7_JANE_5]
+I've asked myself that as well. His man on location is a shady character who calls himself Shark.
+[LVL7_JANE_6]
+According to an FBI report he hangs out with his people at the old subway station.
+[LVL7_JOHN_3]
+A good place for the local drugstore. Hmm...time for a visit, don't you think?
+[LVL7_JANE_7]
+Exactly. If this Shark is the direct contact for Martinez, he must know where to find his boss. Or how to make contact with him.
+[LVL7_JANE_8]
+I've gotten some old subway maps, they should still be pretty accurate.
+[LVL7_JOHN_4]
+I'll get going...
+
+[LVL8_JANE_AB_A]
+Okay, okay, the data is on the PDA, I'm off!
+
+
+[LVL8_JANE_1]
+So? Did you find this Shark fellow?
+[LVL8_JOHN_1]
+Yeah. He claims Martinez is in El Coro...some tiny hole in Mexico.
+[LVL8_JOHN_2]
+Here. See what you can find in this.
+[LVL8_JANE_2]
+A laptop?
+[LVL8_JOHN_3]
+Good guess. It's Shark's laptop, maybe there's something useful in there. 
+[LVL8_JANE_3]
+That will take a while...
+
+
+[LVL8_JANE_4]
+I'm still working on it. Lots of garbage and loads of naked women...
+[LVL8_JOHN_4]
+Oh yeah? Make me a copy, please...
+[LVL8_JANE_5]
+Yeah, okay, then I'll go spend some money. That's supposed to be your job.
+[LVL8_JOHN_5]
+Ja, ist ja gut, ich gehe dann mal Geld ausgeben. Das ist ja eigentlich Dein Feld.
+
+[LVL8_JANE_6]
+John, I'm not finished yet.
+
+[LVL8_JANE_7]
+I haven't found anything interesting on the laptop yet. El Coro isn't mentioned anywhere.
+[LVL8_JANE_8]
+I couldn't find much about El Coro elsewhere, either, except for a few entries from the late sixties, when larger quantities of oil were discovered there. If you ask me, something's fishy here. 
+[LVL8_JOHN_6]
+Good, but it appears that El Coro is our only path to Martinez just now, or am I wrong?
+[LVL8_JANE_9]
+Unfortunately not. I don't like it, but we have to find Martinez at all costs and prevent Cold Zero from getting into the market.
+[LVL8_JOHN_7]
+Should we switch jobs this time? The sun would do you good. All right, all right, I'll go down to Mexico... 
+
+[LVL8_JANE_AB_B]
+Have you forgotten something? Sunny Mexico is waiting for you!
+
+[LVL11_JOHN_1]
+Did Ramuel arrive okay? Do we have any news?
+[LVL11_JANE_1]
+No, not yet. The Don took care of Ramuel, but we haven't heard anything yet. Just use your time wisely and take care of your gear.
+[LVL11_JANE_2]
+Still no message from the Don.
+[LVL11_JANE_3]
+Ramuel doesn't seem to be very talkative - we'll have to wait for the Don's call.
+[LVL11_JANE_4]
+Now we know where Martinez is hiding. He's in Yapala, a little village in Guatemala.
+[LVL11_JANE_5]
+He has an underground drug lab there, where he intends to manufacture Cold Zero.
+[LVL11_JOHN_2]
+Guatemala...that'll be the next excursion, I presume...
+[LVL11_JANE_6]
+Yes and no. As you may remember, Martinez has the local military on his payroll. And he knows we're after him. He himself lives like a recluse.
+[LVL11_JANE_7]
+You can't just fly there as a tourist. It's practically guaranteed that you're already on a wanted list.
+[LVL11_JOHN_3]
+What's the plan?
+[LVL11_JANE_8]
+Ramuel said Martinez gets deliveries twice a week directly from the airport to his villa. Today is delivery day.
+[LVL11_JANE_9]
+I've found a smuggler who will take you in his old plane.
+[LVL11_JANE_10]
+The idea is that you land at this airport and wait until a truck leaves the warehouse area of the airport with the delivery. You slip into the truck and get directly to your destination that way.
+[LVL11_JOHN_4]
+Nice plan, but how do I get my weapons over there this time?
+[LVL11_JANE_11]
+There's a small catch...you simply take them with you. But you have to jump out of the airplane as soon as you've landed and he's reached the terminal...
+[LVL11_JOHN_5]
+That could get interesting...
+[LVL11_JANE_12]
+It's an old propeller-driven plane, the pilot will brake and tell you when to jump out. He knows the airfield like the back of his hand. 
+[LVL11_JOHN_6]
+That's what he claims, at least. When does my flight leave?
+[LVL11_JANE_13]
+In just under 3 hours. I'll drive you to the airport and come back here. Maybe I can still find something on Martinez.
+
+
+[LVL11_JANE_AB]
+Your horoscope for today says: "You'll have a soft landing." So get on with it!
+
+[gunshop2_5]
+I've got something very special.
+[gunshop2_6]
+I've got something I know you'll like.
+
+[lombardo_1]
+What have we got this time?
+[lombardo_2]
+Here's something that might interest you.
+[lombardo_3]
+I'll show you what I have.
+[lombardo_4]
+This is the deal I can offer you.
+
+[SR_1]
+Hello.
+[SR_2]
+If you want to use the shooting range, you have to leave all your weapons and weapon extensions in the locker room.
+[SR_3]
+I can only let you leave after you've returned all of ours weapons into the locker.
+[SR_4]
+Didn't you forget something?
+[SR_5]
+How can I help you?
+[SR_6]
+Hello.
+Access to the shooting range costs $50. Don't forget to leave your own weapons and weapon extensions in one of the lockers in the locker room.
+[SR_7]
+Paying
+[SR_8]
+Leaving
+[SR_9]
+That won't work.
+
+[GS_JOHN_0]
+I think I already know this guy. Thanks but no thanks...

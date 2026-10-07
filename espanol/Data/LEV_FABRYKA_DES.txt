@@ -1,0 +1,24 @@
+[TECHCOL_SECURED]
+Podría probar a enredar un poco con esto...
+[TECHCOL_INIT]
+Vamos a intentarlo...
+[TECHCOL_SUCCES]
+¡Sí!
+[TECHCOL_FAIL]
+No, eso no era.
+[TECHCOL_INIT_FAILED]
+Tendría más posibilidades con algo más sencillo.
+[ok]
+Vale
+[yes]
+Sí.
+[no]
+No.
+[alarm]
+¡Alguien ha entrado en la base!
+[cialo]
+¡Está muerto!
+[lab_door_closed]
+Aquí no hay cerradura. Tengo que encontrar un panel de control que abra esta puerta.
+[tele_alarm]
+¡Alarma! ¡Intruso en la base! ¡Necesitamos refuerzos!

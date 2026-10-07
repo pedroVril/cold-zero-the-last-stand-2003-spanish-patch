@@ -1,0 +1,26 @@
+[TECHCOL_SECURED]
+Podría intentarlo...
+[TECHCOL_INIT]
+Vamos a intentarlo...
+[TECHCOL_SUCCES]
+¡Soy el mejor!
+[TECHCOL_FAIL]
+Necesitas practicar un poco más, John.
+[TECHCOL_INIT_FAILED]
+Eso es demasiado complicado.
+[ok]
+Vale.
+[yes]
+Sí.
+[no]
+No.
+[krata_closed]
+Necesito una llave para esto...
+[waliza]
+Necesito una maleta. A eso he venido.
+[WS_JOHN_3]
+¿Sergei? Tenemos que acordar un nuevo punto de encuentro. Tuve que salir del almacén por una mina vieja. No sé exactamente dónde estoy, pero...
+[WS_SERG_5]
+Sé dónde es. Solo hay una salida en la mina vieja. Espérame allí, voy ahora mismo.
+[WS_JOHN_4]
+Bien, esperaré aquí.

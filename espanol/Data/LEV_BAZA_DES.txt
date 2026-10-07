@@ -1,0 +1,50 @@
+[ALARM]
+¡Americanos! ¡Alarma! ¡Alarma! ¡Dad la alarma!
+
+[NOKEY]
+Necesito una tarjeta de acceso.
+
+[NOPOWKEY]
+¡Maldita sea! Necesito una llave para encender este generador.
+
+[NOPOWER1]
+No hay corriente... tiene que haber un generador por aquí...
+
+[SHIT]
+¡Vienen los SEAL!
+
+[ALARM1]
+¡Ahí está! ¡A por él!
+
+[SCUD]
+Espero que los chicos de la CIA sepan lo que hay aquí.
+
+[PAPIERY]
+...todos los materiales sobre «Cold Zero» deben estar bien vigilados... Parece que por fin nos estamos acercando un poco.
+
+[BODY]
+¡Oh, no! Han descubierto el cuerpo. Esto se va a poner incómodo.
+
+[NOPOWER2]
+No hay electricidad...
+
+[amer]
+¡Americanos! ¡Vienen los americanos!
+
+[no_gun]
+¿Dónde está mi arma?
+
+[skill_use]
+Podría probar con mis habilidades técnicas...
+
+[tech1]
+Bah...
+
+[tech2]
+¡Sí, perfecto!
+
+[tech3]
+Creo que mejor me limito a métodos más convencionales.
+
+[gran]
+¡Por favor! ¡No dispares!

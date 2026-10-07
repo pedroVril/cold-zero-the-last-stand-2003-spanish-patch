@@ -1,0 +1,14 @@
+# Parche generado (se recrea con herramientas/build_parche.py)
+parche/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS / editor
+.DS_Store
+[Tt]humbs.db
+Desktop.ini
+.vscode/
+.idea/

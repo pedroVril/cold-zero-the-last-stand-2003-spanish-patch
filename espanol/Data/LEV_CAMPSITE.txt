@@ -1,0 +1,52 @@
+[mc]
+Jane, la caravana ya ha sido registrada. Si había fotos aquí, ya no están.
+[Jane]
+Qué mal. Sigue adelante...
+[Jane2]
+¡John, unos hombres armados se dirigen hacia ti!
+[Jane3]
+¡Parecen peligrosos, parece una unidad móvil!
+[mc1]
+¡Maldita sea! ¡Tengo que salir de esta caravana, rápido!
+[bndit]
+Hemos llegado al objetivo.
+[bandit1]
+Hombre en la zona del objetivo. Repito: ¡hombre en la zona del objetivo!
+[bandit2] 
+Asegurad la zona!
+[bandit4]
+¡Aquí no hay nadie!
+[bandit5]
+¡Dispersaos! ¡Encontradlo!
+[Sniper1]
+¡John, espera! ¡Hay un francotirador al final de la calle! ¡Con esa luz te alcanzará al primer intento!
+[Sniper2]
+Es una zona privada, así que los distribuidores de las farolas deben estar en los almacenes. Usa las alcantarillas para entrar ahí.
+[Sniper3]
+Vale, entendido. 
+[next]
+SIGUIENTE
+[zrozumialem]
+Entendido.
+[backup]
+¡Necesito refuerzos!
+[jane_end]
+John, creo que sé dónde están las fotos. Busca un... cobertizo viejo y regístralo a fondo. Seguro que ahí encontraremos algo.
+[key]
+Necesito una llave.
+[znalazlem]
+¡Sí! Jane, he encontrado las fotos. Ahora tengo que salir de aquí como sea.
+[m_c]
+Misión cumplida.
+[ok]
+Vale
+[Jane_car]
+Ya estamos aquí. Tú consigues las fotos, yo aparco cerca y vigilo la zona.
+[Mc_start]
+¿Vas a aparcar? Buena suerte.
+[tech1]
+Bueno, eso no ha funcionado.
+[tech2]
+¡Bingo!
+[tech3]
+No se me da muy bien la técnica...

@@ -1,0 +1,106 @@
+[guard1]
+¡Ven aquí!
+[guard1.2]
+¡Vuelve aquí, bestia estúpida!
+[guard2]
+Debe de haber sido un gato...
+[guard3]
+¡Eh, Mike! ¡Ven a ver esto!
+[guard4]
+¡Mírala! ¡Vaya tía tan buena!
+[guard4.1]
+Lo que está haciendo no es posible...
+[guard3.1]
+¡Eh, Mike! ¡Tu mujer es estríper, ¿no?!
+[gurd4.2] 
+¡Es contable!
+[guard3.2]
+¿Eh, Mike? ¿No te presté diez pavos ayer?
+[guard4.3]
+No, no me los prestaste. Ahora cállate.
+[guard3.3]
+¡Eh, Mike! Mañana libramos, ¿no?
+[guard4.4]
+Tendría sentido, ya que esta noche trabajamos...
+[guard3.4]
+¡Eh, Mike!
+[guard4.5]
+¡Cállate de una vez, ¿quieres?!
+[au]
+¡Maldita sea! ¡Están activas!
+[sw]
+Sin corriente. Ahora puedo pasar por encima de los cables.
+[sw2]
+Vuelve a haber corriente...
+[hw]
+¿Tengo un tatuaje en la espalda? ¿Intentas acabar conmigo?
+[hw2]
+Alta tensión...
+[beczki]
+Si los tiro harán un ruido tremendo... y atraerán a un guardia fuera...
+[beczki_b]
+Tíralos.
+[beczki_a]
+No.
+[what]
+¿Qué...?!?!
+[cat1]
+¿Hay alguien ahí?
+[cat2]
+¡Miau!
+[cat3]
+Es solo un gato...
+[alarm1]
+¡Alto!
+[alarm2]
+¡Alto o disparo!
+[key1]
+Eso no se puede abrir sin una llave.
+[inter]
+¿Todo bien ahí arriba?
+[inter1]
+Sí, todo bien.
+[coffe1]
+Debería encontrar algo para echarle en el café. Algo que lo mueva...
+[coffe2]
+Hmm, seguro que eso nunca se ha probado con café...
+[siatka]
+¡Eh! ¡Tenemos un problema! ¡Alguien ha entrado aquí!
+[inter00]
+Voy al baño, así que no me llaméis.
+[stomach]
+Ay, mi estómago...
+[yes]
+Sí
+[no]
+No
+[ok]
+Vale
+[no_docs]
+Aún no he encontrado los documentos de carga.
+[TECH_COL_SECURED]
+A ver si tengo suficiente talento técnico...
+[TECH_COL_INIT]
+Vamos a intentarlo...
+[TECH_COL_START]
+Vamos a intentarlo...
+[TECH_COL_SUCCES]
+¡Lo tengo!
+[TECH_COL_FAIL]
+Eso no ha funcionado.
+[TECH_COL_INIT_FAILED]
+Eso es demasiado difícil.
+[COUNT_START]
+Parece que llegan los chicos de seguridad. Será mejor que me quite de en medio...
+[COUNT_0]
+Ahí están...
+[dzwi1]
+Cerrado.
+[dzwi4]
+Abierto.
+[dzwi5]
+Eso no ha servido de nada.
+[dzwi7]
+No voy a poder hacerlo.
+[sejf_NO_KEY]
+No llegaré muy lejos sin una llave...

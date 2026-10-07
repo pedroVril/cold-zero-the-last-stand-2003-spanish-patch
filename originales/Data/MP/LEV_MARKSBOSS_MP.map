@@ -1,0 +1,43 @@
+[main]
+NumOfMaps=1
+//no comments..
+
+[map_1]
+Texture = LEV_MARKSBOSS
+//w katalogu textures/levelmaps
+
+SSstart = 0,0
+SSsize = 255,255
+//mapowanie tekstury
+
+RealSize = 172,174
+//RAZEM z ramka
+
+Scale = 0.697
+//wielkosc obszaru aktywngo mapy/wielkosc levelu
+		
+BorderSize = 0,0
+//grubosc ramki, taka sama z gory jak i z dolu, z prawej = z lewej
+
+
+OffsetX = -20.966
+OffsetY = -43.206
+//w ktorym punkcie swiata zaczyna sie ta mapa(lewy-dolny rog)
+
+
+
+[map_2]
+Texture = kupa
+
+SSstart = 0,0
+SSsize = 256,256
+
+RealSize = 256,256
+
+Scale = 0.8632
+		
+BorderSize = 16,16
+OffsetX = 0
+OffsetY = 200
+
+

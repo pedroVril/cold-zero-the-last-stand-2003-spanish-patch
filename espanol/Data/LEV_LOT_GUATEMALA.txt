@@ -1,0 +1,48 @@
+[TECHCOL_SECURED]
+Podría probar a enredar un poco con esto...
+[TECHCOL_INIT]
+Vamos a intentarlo...
+[TECHCOL_SUCCES]
+¡Sí!
+[TECHCOL_FAIL]
+No, eso no era.
+[TECHCOL_INIT_FAILED]
+Tendría más posibilidades con algo más sencillo.
+[ok]
+Vale
+[yes]
+Sí.
+[no]
+No.
+[spotted_body]
+¡Está... muerto!
+[phone_alarm]
+¡Alarma! ¡Intruso! ¡Enviad refuerzos!
+[heard_sound]
+¿Qué ha sido eso?
+[driver_is_dead]
+El conductor está muerto.
+[need_map]
+Necesito un mapa, ¿cómo voy a encontrar a Martinez si no?
+[gate_closed]
+La verja está cerrada con llave.
+[need_key]
+No llegaré lejos sin una llave.
+
+[SOLDIER_4]
+¡Mierda!
+
+[SOLDIER_5]
+¡Verte!
+
+[SOLDIER_6]
+¡Verte!
+
+[guat_seen_1]
+¡Fuego!
+
+[guat_seen_2]
+¡Está aquí!
+
+[guat_seen_3]
+¡Lo tengo!

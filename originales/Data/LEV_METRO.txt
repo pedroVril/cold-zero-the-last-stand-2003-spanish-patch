@@ -1,0 +1,74 @@
+[not_manual_door]
+This door cannot be opened manually.
+[killed_shark1]
+Great!
+[killed_shark2]
+Now I have to carry him!
+[killed_shark3]
+That went wrong. Shark is dead.
+[exit]
+EXIT
+[deal1]
+So what gives? Are you buying?
+[deal2]
+There's not much to think about.
+[deal3]
+This is top quality stuff!
+[deal4]
+Make up your minds, will you, I haven't got all day.
+[deal5]
+Well, I don't know..
+[deal6]
+We need to think about it...
+[deal7]
+We'd take it, but...
+[deal8]
+The price is just too high.
+[deal9]
+It's a trap!
+[nie_ma_sharka]
+I've come to get Shark.
+[nie_ma_laptopa]
+Ignoring a computer which possibly has important data would really be stupid.
+[nie_ma_walizki]
+No drugs.
+[Mision_complet]
+Mission completed.
+
+[LG_SHARK_1]
+What do you want?
+[LG_JOHN_1]
+Where's Martinez?
+[LG_SHARK_2]
+Who?
+[LG_JOHN_2]
+I don't like to repeat myself...
+[LG_SHARK_3]
+I don't know any Martinez. What do you want?
+[LG_JOHN_3]
+Ignorance is usually bliss, but not today. Kiss the world goodbye...
+[LG_SHARK_4]
+Wait, wait...I know him, but I don't know where he is.
+[LG_JOHN_4]
+You obviously don't understand.
+[LG_JOHN_5]
+A laptop...
+[LG_SHARK_5]
+Filthy swine!
+[LG_SHARK_6]
+Okay...stop...I'll tell you...
+[LG_JOHN_6]
+I'm all ears...
+[LG_SHARK_7]
+Hector's in El Coro...
+[LG_JOHN_7]
+El Coro? Where in hell is El Coro?
+[LG_SHARK_8]
+In Mexico...
+[LG_JOHN_8]
+May I?
+
+[LG_JOHN_9]
+I'm no expert, but since I met Jane I can tell a PC network cable from a normal power cable.
+[LG_JOHN_10]
+So there must be a server here somewhere - which possibly has usable data on it. I should check that.

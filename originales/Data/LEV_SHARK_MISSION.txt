@@ -1,0 +1,142 @@
+[wozek1]
+Still doesn't work. Bring me a 12-gauge.
+[wozek2]
+No, you stupid idiot, it doesn't fit, I told you to bring me a 14-gauge.
+[wozek3]
+Maybe a 12-gauge after all...yeah, bring me a 12-gauge, faster!
+[woz1]
+He said a 12-gauge after all...
+[woz3]
+Who does he think he is? Bring me a 12-gauge, bring me a 14-gauge...idiot. 
+[woz2]
+Here!
+[cart]
+Who the hell are you?
+[cart1]
+Don't take this personally...
+[cart2]
+Get him!
+[boss]
+You know that today's an important day, don't you?
+[boy]
+Uh, you mean the party at Winnie's?
+[boss1]
+No, the load comes today, you idiot!
+[boy1]
+Oh yeah, right.
+[boss2]
+Make sure that nobody enters the property! Got it?
+[boy2]
+Yeah, we'll stand at the gate and won't let anybody in.
+[boss3]
+Which of the two gates, you blockhead? Stay here and shoot anything that moves, if necessary!
+[boy3]
+Okay, okay, don't get so upset.
+[1boy]
+Yeah, we'll do that.
+[slownik]
+An Italian dictionary? Maybe I can use it here..
+[ital]
+Bene! Tutto bene amici!
+[656alarm]
+Get over here! Fast!
+[656alarm1]
+You wanted it this way!
+[help1]
+Damn! It's locked, I can't open it.
+[help2]
+Jane, I can't get into the building where our man is being held captive. I hear an odd noise. Could be a cement mixer. It sounds like they want to give him a new pair of shoes. 
+
+[help7]
+Turn off the power. Wait, I'll call up the building plans for the property.
+[help8]
+Wait a minute yet...
+[help9]
+Yes, here in Warehouse 2 there's a distributor box. Try it.
+
+[power]
+Power is off, that should give me a little time.
+[bet1]
+What was that?
+[bet2]
+Luigi! Go see what's wrong with the electricity!
+[gang 652 under fire]
+You asked for it!
+[wozek SP body]
+What the...?
+[what the]
+Hey! You need help? Hey!  What the...?
+[syrena info1]
+When you hear the sirens on the loading ramp, get over there immediately!
+[syrena info2]
+O.K., got it.
+[MissionF]
+The hostage was killed.
+[ok]
+OK
+[moto1]
+I need a key...
+[moto2]
+I have a hostage to rescue...
+[moto3]
+I have to wait for the hostage...
+[l_dock]
+Someone's betrayed us! Get back, fast!
+[gadka]
+Who are you?
+[gadkaMC]
+Shut up and follow me!
+[mak_teksty]
+Okay, I'm right behind you.
+[mak_teksty1]
+I'm running as fast as I can.
+[mak_teksty2]
+We'll be out of here in just a minute.
+[mak_teksty3]
+We'll make it!
+[boat_mak]
+There's a boat behind the first warehouse. If you find the key we can use it to escape.
+[iglo]
+Who in the devil are you?
+[mak_chair]
+Cut the chains off!
+[wozek1a]
+Wait a minute!
+[wozek2a]
+Give me a light.
+[wozek3a]
+Here.
+[wozek1b]
+Do you know the story ...
+[wozek2b]
+about the guy...
+[wozek3b]
+who ate so much...
+[wozek4b]
+Get back to work.
+[syrena1]
+The right key would be helpful...
+[syrena2]
+I'm obviously just not smart enough...
+[syrena3]
+That didn't work.
+[syrena4]
+Yes!
+[rat]
+We have an intruder!
+[zak1]
+What should I do?
+[zak2]
+Wait here!
+[zak3]
+Follow me!
+[lui1]
+What the...?
+[SUCCES]
+Mission completed.
+[JOHN_O_2]
+That's not possible.
+[JOHN_O_29]
+Nothing will come of that.
+[JOHN_O_33]
+It doesn't work that way.

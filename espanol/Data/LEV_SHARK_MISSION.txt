@@ -1,0 +1,142 @@
+[wozek1]
+Sigue sin funcionar. Tráeme una del calibre 12.
+[wozek2]
+No, idiota estúpido, no encaja, te dije que me trajeras una del calibre 14.
+[wozek3]
+Quizá una del calibre 12 después de todo... sí, tráeme una del calibre 12, ¡rápido!
+[woz1]
+Dijo una del calibre 12 después de todo...
+[woz3]
+¿Quién se cree que es? Tráeme una del calibre 12, tráeme una del calibre 14... idiota. 
+[woz2]
+¡Aquí!
+[cart]
+¿Quién demonios eres?
+[cart1]
+No te lo tomes como algo personal...
+[cart2]
+¡A por él!
+[boss]
+Sabes que hoy es un día importante, ¿no?
+[boy]
+Eh, ¿te refieres a la fiesta en casa de Winnie?
+[boss1]
+¡No, hoy llega la carga, idiota!
+[boy1]
+Ah, sí, vale.
+[boss2]
+¡Asegúrate de que nadie entre en la propiedad! ¿Entendido?
+[boy2]
+Sí, estaremos en la verja y no dejaremos entrar a nadie.
+[boss3]
+¿En cuál de las dos verjas, cabeza de chorlito? ¡Quédate aquí y dispara a todo lo que se mueva, si hace falta!
+[boy3]
+Vale, vale, no te pongas así.
+[1boy]
+Sí, eso haremos.
+[slownik]
+¿Un diccionario italiano? Quizá pueda usarlo aquí...
+[ital]
+¡Bene! ¡Tutto bene amici!
+[656alarm]
+¡Ven aquí! ¡Rápido!
+[656alarm1]
+¡Tú lo has querido!
+[help1]
+¡Maldita sea! Está cerrado con llave, no puedo abrirlo.
+[help2]
+Jane, no puedo entrar en el edificio donde tienen retenido a nuestro hombre. Oigo un ruido raro. Podría ser una hormigonera. Parece que quieren ponerle unos zapatos nuevos. 
+
+[help7]
+Corta la corriente. Espera, buscaré los planos del edificio de la propiedad.
+[help8]
+Espera un momento aún...
+[help9]
+Sí, aquí en el almacén 2 hay una caja de distribución. Pruébalo.
+
+[power]
+Sin corriente, eso debería darme algo de tiempo.
+[bet1]
+¿Qué ha sido eso?
+[bet2]
+¡Luigi! ¡Ve a ver qué le pasa a la electricidad!
+[gang 652 under fire]
+¡Tú lo has querido!
+[wozek SP body]
+¿Qué...?
+[what the]
+¡Eh! ¿Necesitas ayuda? ¡Eh! ¿Qué...?
+[syrena info1]
+¡Cuando oigas las sirenas en la rampa de carga, ve allí de inmediato!
+[syrena info2]
+Vale, entendido.
+[MissionF]
+El rehén ha muerto.
+[ok]
+Vale
+[moto1]
+Necesito una llave...
+[moto2]
+Tengo un rehén que rescatar...
+[moto3]
+Tengo que esperar al rehén...
+[l_dock]
+¡Alguien nos ha traicionado! ¡Vuelve, rápido!
+[gadka]
+¿Quién eres?
+[gadkaMC]
+¡Cállate y sígueme!
+[mak_teksty]
+Vale, estoy justo detrás de ti.
+[mak_teksty1]
+Corro todo lo rápido que puedo.
+[mak_teksty2]
+Saldremos de aquí en un minuto.
+[mak_teksty3]
+¡Lo conseguiremos!
+[boat_mak]
+Hay un bote detrás del primer almacén. Si encuentras la llave podemos usarlo para escapar.
+[iglo]
+¿Quién demonios eres?
+[mak_chair]
+¡Corta las cadenas!
+[wozek1a]
+¡Espera un momento!
+[wozek2a]
+Dame fuego.
+[wozek3a]
+Aquí.
+[wozek1b]
+¿Conoces la historia ...
+[wozek2b]
+sobre el tipo...
+[wozek3b]
+que comió tanto...
+[wozek4b]
+Vuelve al trabajo.
+[syrena1]
+Una llave adecuada sería útil...
+[syrena2]
+Está claro que no soy lo bastante listo...
+[syrena3]
+Eso no ha funcionado.
+[syrena4]
+¡Sí!
+[rat]
+¡Tenemos un intruso!
+[zak1]
+¿Qué debo hacer?
+[zak2]
+¡Espera aquí!
+[zak3]
+¡Sígueme!
+[lui1]
+¿Qué...?
+[SUCCES]
+Misión cumplida.
+[JOHN_O_2]
+Eso no es posible.
+[JOHN_O_29]
+De eso no saldrá nada.
+[JOHN_O_33]
+Así no funciona.

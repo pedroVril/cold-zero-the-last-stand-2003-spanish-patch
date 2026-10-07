@@ -1,0 +1,28 @@
+[TECHCOL_SECURED]
+Podría intentarlo...
+[TECHCOL_INIT]
+Vamos a intentarlo...
+[TECHCOL_SUCCES]
+¡Soy el mejor!
+[TECHCOL_FAIL]
+Necesitas practicar un poco más, John.
+[TECHCOL_INIT_FAILED]
+Eso es demasiado complicado.
+[ok]
+Vale
+[yes]
+Sí
+[no]
+No
+[need_bomb_keys]
+Necesito dos llaves para desactivar la bomba.
+[bomba_gadka_01]
+¡Alto!
+[bomba_gadka_02]
+¡Por favor, no me hagas daño!
+[bomba_gadka_03]
+¿Cómo puedo desactivar este chisme?
+[bomba_gadka_04]
+Se necesitan dos llaves para desactivar la bomba. Puedo mostrarte dónde encontrarlas. ¿Listo?
+[bomba_gadka_05]
+Siempre estoy listo. ¡Ahora salgamos de aquí!

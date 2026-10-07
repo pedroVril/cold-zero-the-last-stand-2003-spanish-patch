@@ -1,0 +1,52 @@
+[mc]
+Jane, the trailer's already been searched. If any photos were here, they're gone now.
+[Jane]
+That's bad. Keep going...
+[Jane2]
+John, armed men are coming towards you!
+[Jane3]
+They look dangerous, it looks like a mobile task force!
+[mc1]
+Damn! I have to get out of this trailer, fast!
+[bndit]
+We've reached the target.
+[bandit1]
+Man in the target zone. Repeat: Man in the target zone!
+[bandit2] 
+Secure the area!
+[bandit4]
+There's nobody here!
+[bandit5]
+Spread out! Find him!
+[Sniper1]
+John, wait! There's a sharpshooter at the end of the street! In that light he'll hit you on the first try!
+[Sniper2]
+That's a private area, so the distributors for the lanterns must be in the warehouses. Use the sewers to get in there.
+[Sniper3]
+Okay, got it. 
+[next]
+NEXT
+[zrozumialem]
+Copy.
+[backup]
+I need reinforcements!
+[jane_end]
+John, I think I know where the photos are. Find an...old shed and search it thoroughly. I'm sure we'll find something there.
+[key]
+I need a key.
+[znalazlem]
+Yes! Jane, I've found the photos. Now I've got to get out of here, somehow.
+[m_c]
+Mission completed.
+[ok]
+OK
+[Jane_car]
+We're here. You get the photos, I'll park nearby and observe the area.
+[Mc_start]
+You're going to park? Good luck.
+[tech1]
+Well, that didn't work.
+[tech2]
+Bingo!
+[tech3]
+I'm not exactly technically gifted...

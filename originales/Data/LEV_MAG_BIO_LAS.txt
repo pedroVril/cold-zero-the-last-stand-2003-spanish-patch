@@ -1,0 +1,67 @@
+[OK]
+ok
+[YES]
+Yes
+[NO]
+No
+[patrol1]
+Помогите!
+[patrol2]
+Сукин сын!
+[uaz1]
+Живей! Я не хочу провести здесь зиму!
+[uaz2]
+Я не знаю что с ним происходит!
+[uaz3]
+Черт! Я не могу отремонтировать это!
+[radio1]
+База! База! Вы меня слышите?
+[radio2]
+Я плохо слышу тебя, повтори!
+[radio3]
+Вас понял!
+[radio4]
+Что нам делать дальше?
+[radio5]
+Командир, я боюсь что мы потеряли связь.
+[radio6]
+Хорошо, вы двое - проверьте дорогу!
+[radio7]
+Смотри, это один из наших!
+[radio8]
+Командир, мы нашли одного из наших. Он мертв!
+[radio9]
+Давай сюда, будем ждать здесь помощи
+[radio10]
+Смотри, вот где проблема с дорогой!
+[radio11]
+Жди здесь, я попробую это исправить
+
+[WS_SERG_1]
+We here. Sorry I give you only my Beretta and little ammunition.
+[WS_SERG_2]
+Your things landed wrong. Direct in prohibited zone, where I not allowed go.
+[WS_JOHN_1]
+This is off to a good start...
+[WS_SERG_3]
+Pilot says in Sector 4f3, little toward east, if soldiers not found already.
+[WS_JOHN_2]
+Thanks for your gun, Sergei! Pick me up here in one hour.
+[WS_SERG_4]
+Yes, I better go, before soldiers see me.
+
+[WS_JOHN_3]
+Sergei? We have to agree on a new meeting place. I had to leave the warehouse through an old mine. I don't know exactly where I am, but...
+[WS_SERG_5]
+I know where is. Only one exit in old mine. You wait there, I come right away.
+[WS_JOHN_4]
+Good, I'll wait here.
+
+[skill_use]
+I could see if I'm technically clever enough...
+[tech1]
+Nuts, that wasn't so hot.
+[tech2]
+Hurrah!
+[tech3]
+Guess I'm too clumsy for that.

@@ -1,0 +1,50 @@
+[ALARM]
+Americans! Alarm! Alarm! Sound the alarm!
+
+[NOKEY]
+Í need an access card.
+
+[NOPOWKEY]
+Damn! I need a key to switch on this generator.
+
+[NOPOWER1]
+No power...there must be a generator here somewhere...
+
+[SHIT]
+The SEALS are coming!
+
+[ALARM1]
+There he is! Get him!
+
+[SCUD]
+I hope the boys from the CIA know what's sitting here.
+
+[PAPIERY]
+...all materials concerning the 'Cold Zero' must be well guarded... Looks like we're finally getting a bit closer.
+
+[BODY]
+Oh no! They've discovered the body. Things are gonna get uncomfortable now.
+
+[NOPOWER2]
+No electricity...
+
+[amer]
+Americans! The Americans are coming!
+
+[no_gun]
+Where's my gun!?
+
+[skill_use]
+I could try out my technical talents...
+
+[tech1]
+Phooey...
+
+[tech2]
+Yes, that's perfect!
+
+[tech3]
+I think I should confine myself to more conventional methods.
+
+[gran]
+Please! Don't shoot!

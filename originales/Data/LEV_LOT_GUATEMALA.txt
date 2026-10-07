@@ -1,0 +1,48 @@
+[TECHCOL_SECURED]
+I could try fiddling with it...
+[TECHCOL_INIT]
+Let's try it...
+[TECHCOL_SUCCES]
+Yes!
+[TECHCOL_FAIL]
+Nope, that wasn't it.
+[TECHCOL_INIT_FAILED]
+I'd have a better chance at something simpler.
+[ok]
+OK
+[yes]
+Yes.
+[no]
+No.
+[spotted_body]
+He's...dead!
+[phone_alarm]
+Alarm! Intruder! Send reinforcements!
+[heard_sound]
+What was that?
+[driver_is_dead]
+The driver is dead.
+[need_map]
+I need a map, how am I supposed to find Martinez otherwise?
+[gate_closed]
+The gate is locked.
+[need_key]
+I won't get far without a key.
+
+[SOLDIER_4]
+Mierda!
+
+[SOLDIER_5]
+Verte!
+
+[SOLDIER_6]
+Verte!
+
+[guat_seen_1]
+Fire!
+
+[guat_seen_2]
+He's here!
+
+[guat_seen_3]
+I've got him!
